@@ -38,6 +38,11 @@
                 <include
                     latin:keyboardLayout="@xml/key_space_3kw"
                     latin:backgroundType="normal" />
+
+                <!-- Add emoji key. -->
+                <include
+                    latin:keyboardLayout="@xml/key_emoji" /> 
+
                 <Spacer
                     latin:keyWidth="20.0%p" />
                 <Key
@@ -64,6 +69,11 @@
                     latin:keyXPos="19.0%p"
                     latin:keyboardLayout="@xml/key_space_7kw"
                     latin:backgroundType="normal" />
+
+                <!-- Add emoji key. -->
+                <include
+                    latin:keyboardLayout="@xml/key_emoji" /> 
+                    
                 <include
                     latin:keyboardLayout="@xml/key_period" />
                 <include

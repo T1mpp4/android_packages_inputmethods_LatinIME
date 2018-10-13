@@ -32,6 +32,10 @@
         <include
             latin:keyXPos="25%p"
             latin:keyboardLayout="@xml/key_space_5kw" />
+      		
+        <!-- Add emoji key. -->
+        <include
+            latin:keyboardLayout="@xml/key_emoji" /> 
         <include
             latin:keyboardLayout="@xml/key_period" />
         <Key
