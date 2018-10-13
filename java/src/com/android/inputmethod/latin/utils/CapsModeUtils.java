@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.text.InputType;
 import android.text.TextUtils;
 
-import com.android.inputmethod.latin.WordComposer;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.timi.inputmethod.latin.WordComposer;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
 
 import java.util.ArrayList;
 import java.util.Locale;

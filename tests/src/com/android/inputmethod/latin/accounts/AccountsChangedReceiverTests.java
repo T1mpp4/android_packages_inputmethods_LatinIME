@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.accounts;
+package com.timi.inputmethod.latin.accounts;
 
 import android.accounts.AccountManager;
 import android.content.Context;
@@ -23,7 +23,7 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.test.AndroidTestCase;
 
-import com.android.inputmethod.latin.settings.LocalSettingsConstants;
+import com.timi.inputmethod.latin.settings.LocalSettingsConstants;
 
 /**
  * Tests for {@link AccountsChangedReceiver}.

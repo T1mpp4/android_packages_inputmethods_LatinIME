@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.makedict;
+package com.timi.inputmethod.latin.makedict;
 
-import com.android.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
-import com.android.inputmethod.latin.makedict.FusionDictionary;
-import com.android.inputmethod.latin.makedict.FusionDictionary.PtNode;
-import com.android.inputmethod.latin.makedict.FusionDictionary.PtNodeArray;
-import com.android.inputmethod.latin.makedict.WordProperty;
+import com.timi.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
+import com.timi.inputmethod.latin.makedict.FusionDictionary;
+import com.timi.inputmethod.latin.makedict.FusionDictionary.PtNode;
+import com.timi.inputmethod.latin.makedict.FusionDictionary.PtNodeArray;
+import com.timi.inputmethod.latin.makedict.WordProperty;
 
 import junit.framework.TestCase;
 

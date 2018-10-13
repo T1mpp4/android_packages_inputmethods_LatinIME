@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -29,8 +29,8 @@ import android.test.mock.MockContentProvider;
 import android.test.mock.MockContentResolver;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.inputmethod.latin.ContactsDictionaryConstants;
-import com.android.inputmethod.latin.ContactsManager;
+import com.timi.inputmethod.latin.ContactsDictionaryConstants;
+import com.timi.inputmethod.latin.ContactsManager;
 
 import org.junit.Before;
 import org.junit.Test;

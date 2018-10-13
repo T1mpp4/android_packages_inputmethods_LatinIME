@@ -25,8 +25,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.android.inputmethod.annotations.ExternallyReferenced;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.common.LocaleUtils;
 
 import javax.annotation.Nullable;
 

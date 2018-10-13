@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.makedict;
+package com.timi.inputmethod.latin.makedict;
 
-import com.android.inputmethod.latin.NgramContext;
+import com.timi.inputmethod.latin.NgramContext;
 
 public class NgramProperty {
     public final WeightedString mTargetWord;

@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.spellcheck;
+package com.timi.inputmethod.latin.spellcheck;
 
-import com.android.inputmethod.latin.permissions.PermissionsManager;
-import com.android.inputmethod.latin.utils.FragmentUtils;
+import com.timi.inputmethod.latin.permissions.PermissionsManager;
+import com.timi.inputmethod.latin.utils.FragmentUtils;
 
 import android.annotation.TargetApi;
 import android.content.Intent;

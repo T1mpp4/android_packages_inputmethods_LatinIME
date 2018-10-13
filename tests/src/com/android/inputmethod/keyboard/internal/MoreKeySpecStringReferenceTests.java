@@ -22,7 +22,7 @@ import android.content.res.Resources;
 import android.test.InstrumentationTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.inputmethod.latin.tests.R;
+import com.timi.inputmethod.latin.tests.R;
 
 import java.util.Locale;
 

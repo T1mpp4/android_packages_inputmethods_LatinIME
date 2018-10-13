@@ -19,7 +19,7 @@ package com.android.inputmethod.keyboard.action;
 import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.keyboard.KeyboardTheme;
-import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.ArrayList;
 import java.util.Locale;

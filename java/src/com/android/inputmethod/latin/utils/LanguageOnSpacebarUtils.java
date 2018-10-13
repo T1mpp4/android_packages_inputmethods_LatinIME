@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.android.inputmethod.latin.RichInputMethodSubtype;
+import com.timi.inputmethod.latin.RichInputMethodSubtype;
 
 import java.util.Collections;
 import java.util.List;

@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 import android.os.Bundle;
 
-import com.android.inputmethod.latin.R;
+import com.timi.inputmethod.latin.R;
 
 /**
  * "Gesture typing preferences" settings sub screen.

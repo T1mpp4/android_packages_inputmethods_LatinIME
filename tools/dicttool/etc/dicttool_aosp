@@ -33,7 +33,7 @@ progdir=`pwd`
 prog="${progdir}"/`basename "${prog}"`
 cd "${oldwd}"
 
-classname=com.android.inputmethod.latin.dicttool.Dicttool
+classname=com.timi.inputmethod.latin.dicttool.Dicttool
 jarfile=dicttool_aosp.jar
 frameworkdir="$progdir"
 if [ ! -r "$frameworkdir/$jarfile" ]

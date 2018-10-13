@@ -14,10 +14,10 @@
  * limitations under the License
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
-import com.android.inputmethod.latin.AssetFileAddress;
-import com.android.inputmethod.latin.makedict.DictionaryHeader;
+import com.timi.inputmethod.latin.AssetFileAddress;
+import com.timi.inputmethod.latin.makedict.DictionaryHeader;
 
 import java.io.File;
 

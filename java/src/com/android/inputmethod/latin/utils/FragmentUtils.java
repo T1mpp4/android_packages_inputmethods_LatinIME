@@ -14,25 +14,25 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import com.android.inputmethod.dictionarypack.DictionarySettingsFragment;
-import com.android.inputmethod.latin.about.AboutPreferences;
-import com.android.inputmethod.latin.settings.AccountsSettingsFragment;
-import com.android.inputmethod.latin.settings.AdvancedSettingsFragment;
-import com.android.inputmethod.latin.settings.AppearanceSettingsFragment;
-import com.android.inputmethod.latin.settings.CorrectionSettingsFragment;
-import com.android.inputmethod.latin.settings.CustomInputStyleSettingsFragment;
-import com.android.inputmethod.latin.settings.DebugSettingsFragment;
-import com.android.inputmethod.latin.settings.GestureSettingsFragment;
-import com.android.inputmethod.latin.settings.PreferencesSettingsFragment;
-import com.android.inputmethod.latin.settings.SettingsFragment;
-import com.android.inputmethod.latin.settings.ThemeSettingsFragment;
-import com.android.inputmethod.latin.spellcheck.SpellCheckerSettingsFragment;
-import com.android.inputmethod.latin.userdictionary.UserDictionaryAddWordFragment;
-import com.android.inputmethod.latin.userdictionary.UserDictionaryList;
-import com.android.inputmethod.latin.userdictionary.UserDictionaryLocalePicker;
-import com.android.inputmethod.latin.userdictionary.UserDictionarySettings;
+import com.timi.inputmethod.latin.about.AboutPreferences;
+import com.timi.inputmethod.latin.settings.AccountsSettingsFragment;
+import com.timi.inputmethod.latin.settings.AdvancedSettingsFragment;
+import com.timi.inputmethod.latin.settings.AppearanceSettingsFragment;
+import com.timi.inputmethod.latin.settings.CorrectionSettingsFragment;
+import com.timi.inputmethod.latin.settings.CustomInputStyleSettingsFragment;
+import com.timi.inputmethod.latin.settings.DebugSettingsFragment;
+import com.timi.inputmethod.latin.settings.GestureSettingsFragment;
+import com.timi.inputmethod.latin.settings.PreferencesSettingsFragment;
+import com.timi.inputmethod.latin.settings.SettingsFragment;
+import com.timi.inputmethod.latin.settings.ThemeSettingsFragment;
+import com.timi.inputmethod.latin.spellcheck.SpellCheckerSettingsFragment;
+import com.timi.inputmethod.latin.userdictionary.UserDictionaryAddWordFragment;
+import com.timi.inputmethod.latin.userdictionary.UserDictionaryList;
+import com.timi.inputmethod.latin.userdictionary.UserDictionaryLocalePicker;
+import com.timi.inputmethod.latin.userdictionary.UserDictionarySettings;
 
 import java.util.HashSet;
 

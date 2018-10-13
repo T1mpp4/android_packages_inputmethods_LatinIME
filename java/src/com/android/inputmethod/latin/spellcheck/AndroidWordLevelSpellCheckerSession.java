@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.spellcheck;
+package com.timi.inputmethod.latin.spellcheck;
 
 import android.content.ContentResolver;
 import android.database.ContentObserver;
@@ -29,17 +29,17 @@ import android.view.textservice.TextInfo;
 
 import com.android.inputmethod.compat.SuggestionsInfoCompatUtils;
 import com.android.inputmethod.keyboard.Keyboard;
-import com.android.inputmethod.latin.NgramContext;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.WordComposer;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.LocaleUtils;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.utils.BinaryDictionaryUtils;
-import com.android.inputmethod.latin.utils.ScriptUtils;
-import com.android.inputmethod.latin.utils.StatsUtils;
-import com.android.inputmethod.latin.utils.SuggestionResults;
+import com.timi.inputmethod.latin.NgramContext;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.WordComposer;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.utils.BinaryDictionaryUtils;
+import com.timi.inputmethod.latin.utils.ScriptUtils;
+import com.timi.inputmethod.latin.utils.StatsUtils;
+import com.timi.inputmethod.latin.utils.SuggestionResults;
 
 import java.util.ArrayList;
 import java.util.List;

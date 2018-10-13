@@ -14,21 +14,21 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.LargeTest;
 import android.text.TextUtils;
 import android.util.Pair;
 
-import com.android.inputmethod.latin.NgramContext.WordInfo;
-import com.android.inputmethod.latin.common.CodePointUtils;
-import com.android.inputmethod.latin.common.FileUtils;
-import com.android.inputmethod.latin.makedict.DictionaryHeader;
-import com.android.inputmethod.latin.makedict.FormatSpec;
-import com.android.inputmethod.latin.makedict.WeightedString;
-import com.android.inputmethod.latin.makedict.WordProperty;
-import com.android.inputmethod.latin.utils.BinaryDictionaryUtils;
+import com.timi.inputmethod.latin.NgramContext.WordInfo;
+import com.timi.inputmethod.latin.common.CodePointUtils;
+import com.timi.inputmethod.latin.common.FileUtils;
+import com.timi.inputmethod.latin.makedict.DictionaryHeader;
+import com.timi.inputmethod.latin.makedict.FormatSpec;
+import com.timi.inputmethod.latin.makedict.WeightedString;
+import com.timi.inputmethod.latin.makedict.WordProperty;
+import com.timi.inputmethod.latin.utils.BinaryDictionaryUtils;
 
 import java.io.File;
 import java.io.IOException;

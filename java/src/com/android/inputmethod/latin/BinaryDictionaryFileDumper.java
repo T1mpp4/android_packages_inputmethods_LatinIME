@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.ContentProviderClient;
 import android.content.ContentResolver;
@@ -30,12 +30,12 @@ import android.util.Log;
 import com.android.inputmethod.dictionarypack.DictionaryPackConstants;
 import com.android.inputmethod.dictionarypack.MD5Calculator;
 import com.android.inputmethod.dictionarypack.UpdateHandler;
-import com.android.inputmethod.latin.common.FileUtils;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
-import com.android.inputmethod.latin.utils.DictionaryInfoUtils;
-import com.android.inputmethod.latin.utils.DictionaryInfoUtils.DictionaryInfo;
-import com.android.inputmethod.latin.utils.FileTransforms;
-import com.android.inputmethod.latin.utils.MetadataFileUriGetter;
+import com.timi.inputmethod.latin.common.FileUtils;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.utils.DictionaryInfoUtils;
+import com.timi.inputmethod.latin.utils.DictionaryInfoUtils.DictionaryInfo;
+import com.timi.inputmethod.latin.utils.FileTransforms;
+import com.timi.inputmethod.latin.utils.MetadataFileUriGetter;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

@@ -26,9 +26,9 @@ import android.view.inputmethod.EditorInfo;
 import com.android.inputmethod.keyboard.Key;
 import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.KeyboardId;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.StringUtils;
 
 import java.util.Locale;
 

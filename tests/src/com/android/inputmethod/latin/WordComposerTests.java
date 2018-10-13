@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.CoordinateUtils;
-import com.android.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.CoordinateUtils;
+import com.timi.inputmethod.latin.common.StringUtils;
 
 /**
  * Unit tests for WordComposer.

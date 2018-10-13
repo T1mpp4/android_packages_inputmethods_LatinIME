@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.setup;
+package com.timi.inputmethod.latin.setup;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -28,7 +28,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.android.inputmethod.latin.R;
+import com.timi.inputmethod.latin.R;
 
 public final class SetupStartIndicatorView extends LinearLayout {
     public SetupStartIndicatorView(final Context context, final AttributeSet attrs) {

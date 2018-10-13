@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.text.TextUtils;
 import android.view.inputmethod.CompletionInfo;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.define.DebugFlags;
 
 import java.util.ArrayList;
 import java.util.Arrays;

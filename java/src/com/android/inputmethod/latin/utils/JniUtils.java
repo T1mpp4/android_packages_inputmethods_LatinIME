@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.util.Log;
 
-import com.android.inputmethod.latin.define.JniLibName;
+import com.timi.inputmethod.latin.define.JniLibName;
 
 public final class JniUtils {
     private static final String TAG = JniUtils.class.getSimpleName();

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.inputlogic;
+package com.timi.inputmethod.latin.inputlogic;
 
 /**
  * Class for managing space states.

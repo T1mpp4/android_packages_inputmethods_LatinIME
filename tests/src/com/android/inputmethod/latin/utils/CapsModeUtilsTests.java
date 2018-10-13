@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.content.res.Resources;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.text.TextUtils;
 
-import com.android.inputmethod.latin.common.LocaleUtils;
-import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
 
 import java.util.Locale;
 

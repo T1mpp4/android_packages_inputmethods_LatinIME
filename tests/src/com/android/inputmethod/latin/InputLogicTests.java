@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import static android.test.MoreAsserts.assertNotEqual;
 
@@ -22,9 +22,9 @@ import android.test.suitebuilder.annotation.LargeTest;
 import android.text.TextUtils;
 import android.view.inputmethod.BaseInputConnection;
 
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
-import com.android.inputmethod.latin.settings.Settings;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.settings.Settings;
 
 @LargeTest
 public class InputLogicTests extends InputTestsBase {

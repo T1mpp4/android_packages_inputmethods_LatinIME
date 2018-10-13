@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.inputmethodservice.InputMethodService;
 import android.os.Build;
@@ -33,18 +33,18 @@ import android.view.inputmethod.InputConnection;
 import android.view.inputmethod.InputMethodManager;
 
 import com.android.inputmethod.compat.InputConnectionCompatUtils;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.UnicodeSurrogate;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.inputlogic.PrivateCommandPerformer;
-import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
-import com.android.inputmethod.latin.utils.CapsModeUtils;
-import com.android.inputmethod.latin.utils.DebugLogUtils;
-import com.android.inputmethod.latin.utils.NgramContextUtils;
-import com.android.inputmethod.latin.utils.ScriptUtils;
-import com.android.inputmethod.latin.utils.SpannableStringUtils;
-import com.android.inputmethod.latin.utils.StatsUtils;
-import com.android.inputmethod.latin.utils.TextRange;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.UnicodeSurrogate;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.inputlogic.PrivateCommandPerformer;
+import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.timi.inputmethod.latin.utils.CapsModeUtils;
+import com.timi.inputmethod.latin.utils.DebugLogUtils;
+import com.timi.inputmethod.latin.utils.NgramContextUtils;
+import com.timi.inputmethod.latin.utils.ScriptUtils;
+import com.timi.inputmethod.latin.utils.SpannableStringUtils;
+import com.timi.inputmethod.latin.utils.StatsUtils;
+import com.timi.inputmethod.latin.utils.TextRange;
 
 import java.util.concurrent.TimeUnit;
 
@@ -320,7 +320,7 @@ public final class RichInputConnection implements PrivateCommandPerformer {
                 final int spanFlags = mTempObjectForCommitText.getSpanFlags(span);
                 // We have to adjust the end of the span to include an additional character.
                 // This is to avoid splitting a unicode surrogate pair.
-                // See com.android.inputmethod.latin.common.Constants.UnicodeSurrogate
+                // See com.timi.inputmethod.latin.common.Constants.UnicodeSurrogate
                 // See https://b.corp.google.com/issues/19255233
                 if (0 < spanEnd && spanEnd < mTempObjectForCommitText.length()) {
                     final char spanEndChar = mTempObjectForCommitText.charAt(spanEnd - 1);

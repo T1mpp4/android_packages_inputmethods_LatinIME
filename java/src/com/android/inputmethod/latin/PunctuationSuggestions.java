@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import com.android.inputmethod.keyboard.internal.KeySpecParser;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.StringUtils;
 
 import java.util.ArrayList;
 import java.util.Arrays;

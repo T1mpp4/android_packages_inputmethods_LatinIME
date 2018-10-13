@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.touchinputconsumer;
+package com.timi.inputmethod.latin.touchinputconsumer;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;

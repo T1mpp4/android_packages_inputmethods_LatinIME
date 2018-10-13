@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.makedict;
+package com.timi.inputmethod.latin.makedict;
 
 import com.android.inputmethod.annotations.UsedForTesting;
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.Manifest;
 import android.content.Context;
@@ -25,9 +25,9 @@ import android.text.TextUtils;
 import android.util.Log;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.permissions.PermissionsUtil;
-import com.android.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.permissions.PermissionsUtil;
+import com.timi.inputmethod.latin.settings.SettingsValues;
 
 import java.util.concurrent.TimeUnit;
 

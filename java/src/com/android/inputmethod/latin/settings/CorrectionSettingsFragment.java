@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 import android.Manifest;
 import android.app.Activity;
@@ -30,11 +30,11 @@ import android.preference.SwitchPreference;
 import android.text.TextUtils;
 
 import com.android.inputmethod.dictionarypack.DictionarySettingsActivity;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.permissions.PermissionsManager;
-import com.android.inputmethod.latin.permissions.PermissionsUtil;
-import com.android.inputmethod.latin.userdictionary.UserDictionaryList;
-import com.android.inputmethod.latin.userdictionary.UserDictionarySettings;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.permissions.PermissionsManager;
+import com.timi.inputmethod.latin.permissions.PermissionsUtil;
+import com.timi.inputmethod.latin.userdictionary.UserDictionaryList;
+import com.timi.inputmethod.latin.userdictionary.UserDictionarySettings;
 
 import java.util.TreeSet;
 

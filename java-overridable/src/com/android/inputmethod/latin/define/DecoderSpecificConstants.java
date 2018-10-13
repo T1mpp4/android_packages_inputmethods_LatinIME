@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.android.inputmethod.latin.define;
+package com.timi.inputmethod.latin.define;
 
 /**
  * Decoder specific constants for LatinIme.

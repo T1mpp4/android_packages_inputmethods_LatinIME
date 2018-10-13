@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -26,10 +26,10 @@ import android.text.TextUtils;
 import android.util.Log;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.common.CollectionUtils;
-import com.android.inputmethod.latin.common.LocaleUtils;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.utils.ExecutorUtils;
+import com.timi.inputmethod.latin.common.CollectionUtils;
+import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.utils.ExecutorUtils;
 
 import java.io.Closeable;
 import java.util.ArrayList;

@@ -29,10 +29,10 @@ import com.android.inputmethod.keyboard.KeyboardLayoutSet;
 import com.android.inputmethod.keyboard.KeyboardLayoutSetTestsBase;
 import com.android.inputmethod.keyboard.internal.KeyboardIconsSet;
 import com.android.inputmethod.keyboard.layout.expected.ExpectedKeyVisual;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.LocaleUtils;
-import com.android.inputmethod.latin.utils.RunInLocale;
-import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.utils.RunInLocale;
+import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.Locale;
 

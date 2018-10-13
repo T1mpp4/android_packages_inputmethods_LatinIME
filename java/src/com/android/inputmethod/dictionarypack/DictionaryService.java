@@ -25,9 +25,9 @@ import android.os.IBinder;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.android.inputmethod.latin.BinaryDictionaryFileDumper;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.BinaryDictionaryFileDumper;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.common.LocaleUtils;
 
 import java.util.Locale;
 import java.util.Random;
@@ -60,7 +60,7 @@ public final class DictionaryService extends Service {
     /**
      * The package name, to use in the intent actions.
      */
-    private static final String PACKAGE_NAME = "com.android.inputmethod.latin";
+    private static final String PACKAGE_NAME = "com.timi.inputmethod.latin";
 
     /**
      * The action of the date changing, used to schedule a periodic freshness check

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.accounts;
+package com.timi.inputmethod.latin.accounts;
 
 import android.accounts.AccountManager;
 import android.content.BroadcastReceiver;
@@ -26,7 +26,7 @@ import android.text.TextUtils;
 import android.util.Log;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.settings.LocalSettingsConstants;
+import com.timi.inputmethod.latin.settings.LocalSettingsConstants;
 
 /**
  * {@link BroadcastReceiver} for {@link AccountManager#LOGIN_ACCOUNTS_CHANGED_ACTION}.

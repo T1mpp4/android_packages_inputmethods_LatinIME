@@ -14,19 +14,19 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import com.android.inputmethod.annotations.UsedForTesting;
 import com.android.inputmethod.event.CombinerChain;
 import com.android.inputmethod.event.Event;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.common.ComposedData;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.CoordinateUtils;
-import com.android.inputmethod.latin.common.InputPointers;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.common.ComposedData;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.CoordinateUtils;
+import com.timi.inputmethod.latin.common.InputPointers;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
 
 import java.util.ArrayList;
 import java.util.Collections;

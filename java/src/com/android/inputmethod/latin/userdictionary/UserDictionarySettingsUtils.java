@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.userdictionary;
+package com.timi.inputmethod.latin.userdictionary;
 
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.common.LocaleUtils;
 
 import android.content.Context;
 import android.text.TextUtils;

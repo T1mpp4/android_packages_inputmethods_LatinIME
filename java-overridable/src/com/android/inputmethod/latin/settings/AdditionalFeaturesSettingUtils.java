@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceFragment;
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.android.inputmethod.latin.RichInputMethodSubtype;
-import com.android.inputmethod.latin.RichInputMethodManager;
+import com.timi.inputmethod.latin.RichInputMethodSubtype;
+import com.timi.inputmethod.latin.RichInputMethodManager;
 
 import javax.annotation.Nonnull;
 

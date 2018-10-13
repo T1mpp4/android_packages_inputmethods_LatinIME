@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.makedict;
+package com.timi.inputmethod.latin.makedict;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
-import com.android.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
 
 import java.util.ArrayList;
 import java.util.Arrays;

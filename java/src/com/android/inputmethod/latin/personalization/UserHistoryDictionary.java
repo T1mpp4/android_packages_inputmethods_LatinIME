@@ -14,19 +14,19 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.personalization;
+package com.timi.inputmethod.latin.personalization;
 
 import android.content.Context;
 
 import com.android.inputmethod.annotations.ExternallyReferenced;
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.BinaryDictionary;
-import com.android.inputmethod.latin.Dictionary;
-import com.android.inputmethod.latin.ExpandableBinaryDictionary;
-import com.android.inputmethod.latin.NgramContext;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
-import com.android.inputmethod.latin.define.ProductionFlags;
-import com.android.inputmethod.latin.makedict.DictionaryHeader;
+import com.timi.inputmethod.latin.BinaryDictionary;
+import com.timi.inputmethod.latin.Dictionary;
+import com.timi.inputmethod.latin.ExpandableBinaryDictionary;
+import com.timi.inputmethod.latin.NgramContext;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.define.ProductionFlags;
+import com.timi.inputmethod.latin.makedict.DictionaryHeader;
 
 import java.io.File;
 import java.util.Locale;

@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.android.inputmethod.latin.common;
+package com.timi.inputmethod.latin.common;
 
 import java.util.HashMap;
 import java.util.HashSet;

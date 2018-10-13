@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.res.Resources;
 import android.util.Log;
@@ -22,7 +22,7 @@ import android.util.Pair;
 import android.view.KeyEvent;
 
 import com.android.inputmethod.keyboard.KeyboardSwitcher;
-import com.android.inputmethod.latin.settings.Settings;
+import com.timi.inputmethod.latin.settings.Settings;
 
 import java.util.ArrayList;
 import java.util.HashSet;

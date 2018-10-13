@@ -16,7 +16,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         coreApp="true"
-        package="com.android.inputmethod.latin">
+        package="com.timi.inputmethod.latin">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="23" />
 
@@ -39,17 +39,17 @@
          To use this, add the following line into calling application's AndroidManifest.xml
          <pre>
          {@code
-         <uses-permission android:name="com.android.inputmethod.latin.HIDE_SOFT_INPUT"/>
+         <uses-permission android:name="com.timi.inputmethod.latin.HIDE_SOFT_INPUT"/>
          }
          </pre>
          then call {@link android.content.Context#sendBroadcast(Intent)} as follows:
          <pre>
          {@code
-         sendBroadcast(new Intent("com.android.inputmethod.latin.HIDE_SOFT_INPUT")
-                 .setPackage("com.android.inputmethod.latin"));
+         sendBroadcast(new Intent("com.timi.inputmethod.latin.HIDE_SOFT_INPUT")
+                 .setPackage("com.timi.inputmethod.latin"));
          }
          </pre> -->
-    <permission android:name="com.android.inputmethod.latin.HIDE_SOFT_INPUT"
+    <permission android:name="com.timi.inputmethod.latin.HIDE_SOFT_INPUT"
                 android:protectionLevel="signature" />
 
     <application android:label="@string/english_ime_name"

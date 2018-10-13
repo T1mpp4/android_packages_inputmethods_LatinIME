@@ -14,28 +14,28 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.text.TextUtils;
 import android.util.Log;
 import android.util.SparseArray;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.common.ComposedData;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.FileUtils;
-import com.android.inputmethod.latin.common.InputPointers;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.makedict.DictionaryHeader;
-import com.android.inputmethod.latin.makedict.FormatSpec;
-import com.android.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
-import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
-import com.android.inputmethod.latin.makedict.WordProperty;
-import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
-import com.android.inputmethod.latin.utils.BinaryDictionaryUtils;
-import com.android.inputmethod.latin.utils.JniUtils;
-import com.android.inputmethod.latin.utils.WordInputEventForPersonalization;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.common.ComposedData;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.FileUtils;
+import com.timi.inputmethod.latin.common.InputPointers;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.makedict.DictionaryHeader;
+import com.timi.inputmethod.latin.makedict.FormatSpec;
+import com.timi.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
+import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.timi.inputmethod.latin.makedict.WordProperty;
+import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.timi.inputmethod.latin.utils.BinaryDictionaryUtils;
+import com.timi.inputmethod.latin.utils.JniUtils;
+import com.timi.inputmethod.latin.utils.WordInputEventForPersonalization;
 
 import java.io.File;
 import java.util.ArrayList;

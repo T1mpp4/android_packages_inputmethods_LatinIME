@@ -29,9 +29,9 @@ import android.view.ViewGroup;
 import com.android.inputmethod.accessibility.AccessibilityUtils;
 import com.android.inputmethod.accessibility.MoreKeysKeyboardAccessibilityDelegate;
 import com.android.inputmethod.keyboard.internal.KeyDrawParams;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.CoordinateUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.CoordinateUtils;
 
 /**
  * A view that renders a virtual {@link MoreKeysKeyboard}. It handles rendering of keys and

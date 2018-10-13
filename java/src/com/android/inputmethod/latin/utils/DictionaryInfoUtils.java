@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -26,16 +26,16 @@ import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.annotations.UsedForTesting;
 import com.android.inputmethod.dictionarypack.UpdateHandler;
-import com.android.inputmethod.latin.AssetFileAddress;
-import com.android.inputmethod.latin.BinaryDictionaryGetter;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.RichInputMethodManager;
-import com.android.inputmethod.latin.common.FileUtils;
-import com.android.inputmethod.latin.common.LocaleUtils;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
-import com.android.inputmethod.latin.makedict.DictionaryHeader;
-import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
-import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.timi.inputmethod.latin.AssetFileAddress;
+import com.timi.inputmethod.latin.BinaryDictionaryGetter;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.RichInputMethodManager;
+import com.timi.inputmethod.latin.common.FileUtils;
+import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.makedict.DictionaryHeader;
+import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
 
 import java.io.File;
 import java.io.FilenameFilter;

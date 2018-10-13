@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 /**
  * Debug settings for the application.

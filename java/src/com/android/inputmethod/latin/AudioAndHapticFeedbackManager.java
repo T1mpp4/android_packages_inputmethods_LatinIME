@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.Context;
 import android.media.AudioManager;
@@ -22,8 +22,8 @@ import android.os.Vibrator;
 import android.view.HapticFeedbackConstants;
 import android.view.View;
 
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.settings.SettingsValues;
 
 /**
  * This class gathers audio feedback and haptic feedback functions.

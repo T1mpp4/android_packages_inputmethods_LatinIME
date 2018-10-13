@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.network;
+package com.timi.inputmethod.latin.network;
 
-import static com.android.inputmethod.latin.network.HttpUrlConnectionBuilder.MODE_BI_DIRECTIONAL;
-import static com.android.inputmethod.latin.network.HttpUrlConnectionBuilder.MODE_DOWNLOAD_ONLY;
-import static com.android.inputmethod.latin.network.HttpUrlConnectionBuilder.MODE_UPLOAD_ONLY;
+import static com.timi.inputmethod.latin.network.HttpUrlConnectionBuilder.MODE_BI_DIRECTIONAL;
+import static com.timi.inputmethod.latin.network.HttpUrlConnectionBuilder.MODE_DOWNLOAD_ONLY;
+import static com.timi.inputmethod.latin.network.HttpUrlConnectionBuilder.MODE_UPLOAD_ONLY;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;

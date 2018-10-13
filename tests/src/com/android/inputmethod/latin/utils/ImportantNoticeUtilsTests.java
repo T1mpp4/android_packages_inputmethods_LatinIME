@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
-import static com.android.inputmethod.latin.utils.ImportantNoticeUtils.KEY_TIMESTAMP_OF_CONTACTS_NOTICE;
+import static com.timi.inputmethod.latin.utils.ImportantNoticeUtils.KEY_TIMESTAMP_OF_CONTACTS_NOTICE;
 import static org.mockito.Mockito.when;
 
 import android.content.Context;
@@ -25,7 +25,7 @@ import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.MediumTest;
 import android.text.TextUtils;
 
-import com.android.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.settings.SettingsValues;
 
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;

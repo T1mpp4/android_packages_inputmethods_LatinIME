@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.inputlogic;
+package com.timi.inputmethod.latin.inputlogic;
 
 import android.graphics.Color;
 import android.os.SystemClock;
@@ -34,30 +34,30 @@ import com.android.inputmethod.event.Event;
 import com.android.inputmethod.event.InputTransaction;
 import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.KeyboardSwitcher;
-import com.android.inputmethod.latin.Dictionary;
-import com.android.inputmethod.latin.DictionaryFacilitator;
-import com.android.inputmethod.latin.LastComposedWord;
-import com.android.inputmethod.latin.LatinIME;
-import com.android.inputmethod.latin.NgramContext;
-import com.android.inputmethod.latin.RichInputConnection;
-import com.android.inputmethod.latin.Suggest;
-import com.android.inputmethod.latin.Suggest.OnGetSuggestedWordsCallback;
-import com.android.inputmethod.latin.SuggestedWords;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.WordComposer;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.InputPointers;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.settings.SettingsValues;
-import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
-import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
-import com.android.inputmethod.latin.suggestions.SuggestionStripViewAccessor;
-import com.android.inputmethod.latin.utils.AsyncResultHolder;
-import com.android.inputmethod.latin.utils.InputTypeUtils;
-import com.android.inputmethod.latin.utils.RecapitalizeStatus;
-import com.android.inputmethod.latin.utils.StatsUtils;
-import com.android.inputmethod.latin.utils.TextRange;
+import com.timi.inputmethod.latin.Dictionary;
+import com.timi.inputmethod.latin.DictionaryFacilitator;
+import com.timi.inputmethod.latin.LastComposedWord;
+import com.timi.inputmethod.latin.LatinIME;
+import com.timi.inputmethod.latin.NgramContext;
+import com.timi.inputmethod.latin.RichInputConnection;
+import com.timi.inputmethod.latin.Suggest;
+import com.timi.inputmethod.latin.Suggest.OnGetSuggestedWordsCallback;
+import com.timi.inputmethod.latin.SuggestedWords;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.WordComposer;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.InputPointers;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.timi.inputmethod.latin.suggestions.SuggestionStripViewAccessor;
+import com.timi.inputmethod.latin.utils.AsyncResultHolder;
+import com.timi.inputmethod.latin.utils.InputTypeUtils;
+import com.timi.inputmethod.latin.utils.RecapitalizeStatus;
+import com.timi.inputmethod.latin.utils.StatsUtils;
+import com.timi.inputmethod.latin.utils.TextRange;
 
 import java.util.ArrayList;
 import java.util.Locale;
@@ -1905,10 +1905,10 @@ public final class InputLogic {
     }
 
     /**
-     * Make a {@link com.android.inputmethod.latin.SuggestedWords} object containing a typed word
+     * Make a {@link com.timi.inputmethod.latin.SuggestedWords} object containing a typed word
      * and obsolete suggestions.
-     * See {@link com.android.inputmethod.latin.SuggestedWords#getTypedWordAndPreviousSuggestions(
-     *      SuggestedWordInfo, com.android.inputmethod.latin.SuggestedWords)}.
+     * See {@link com.timi.inputmethod.latin.SuggestedWords#getTypedWordAndPreviousSuggestions(
+     *      SuggestedWordInfo, com.timi.inputmethod.latin.SuggestedWords)}.
      * @param typedWordInfo The typed word as a SuggestedWordInfo.
      * @param previousSuggestedWords The previously suggested words.
      * @return Obsolete suggestions with the newly typed word.

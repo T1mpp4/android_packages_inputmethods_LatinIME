@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.android.inputmethod.latin.dicttool;
+package com.timi.inputmethod.latin.dicttool;
 
 public class CommandList {
     public static void populate() {

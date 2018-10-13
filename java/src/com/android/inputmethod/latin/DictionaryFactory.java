@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.ContentProviderClient;
 import android.content.Context;
 import android.content.res.AssetFileDescriptor;
 import android.util.Log;
 
-import com.android.inputmethod.latin.utils.DictionaryInfoUtils;
+import com.timi.inputmethod.latin.utils.DictionaryInfoUtils;
 
 import java.io.File;
 import java.util.ArrayList;

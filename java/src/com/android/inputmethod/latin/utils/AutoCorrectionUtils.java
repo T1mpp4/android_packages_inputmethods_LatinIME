@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.util.Log;
 
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.define.DebugFlags;
 
 public final class AutoCorrectionUtils {
     private static final boolean DBG = DebugFlags.DEBUG_ENABLED;

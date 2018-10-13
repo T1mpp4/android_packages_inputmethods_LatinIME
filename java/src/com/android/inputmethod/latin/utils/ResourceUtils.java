@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -25,8 +25,8 @@ import android.util.Log;
 import android.util.TypedValue;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.settings.SettingsValues;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -119,7 +119,7 @@ public final class ResourceUtils {
      * @param conditionConstantArray an array of "condition,constant" elements to be searched.
      * @return the constant part of the matched "condition,constant" element. Returns null if no
      * condition matches.
-     * @see com.android.inputmethod.latin.utils.ResourceUtilsTests#testFindConstantForKeyValuePairsRegexp()
+     * @see com.timi.inputmethod.latin.utils.ResourceUtilsTests#testFindConstantForKeyValuePairsRegexp()
      */
     @UsedForTesting
     static String findConstantForKeyValuePairs(final HashMap<String, String> keyValuePairs,

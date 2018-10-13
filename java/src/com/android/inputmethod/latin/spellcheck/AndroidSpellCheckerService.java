@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.spellcheck;
+package com.timi.inputmethod.latin.spellcheck;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -28,17 +28,17 @@ import android.view.textservice.SuggestionsInfo;
 import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.KeyboardId;
 import com.android.inputmethod.keyboard.KeyboardLayoutSet;
-import com.android.inputmethod.latin.DictionaryFacilitator;
-import com.android.inputmethod.latin.DictionaryFacilitatorLruCache;
-import com.android.inputmethod.latin.NgramContext;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.RichInputMethodSubtype;
-import com.android.inputmethod.latin.SuggestedWords;
-import com.android.inputmethod.latin.common.ComposedData;
-import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
-import com.android.inputmethod.latin.utils.AdditionalSubtypeUtils;
-import com.android.inputmethod.latin.utils.ScriptUtils;
-import com.android.inputmethod.latin.utils.SuggestionResults;
+import com.timi.inputmethod.latin.DictionaryFacilitator;
+import com.timi.inputmethod.latin.DictionaryFacilitatorLruCache;
+import com.timi.inputmethod.latin.NgramContext;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.RichInputMethodSubtype;
+import com.timi.inputmethod.latin.SuggestedWords;
+import com.timi.inputmethod.latin.common.ComposedData;
+import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.timi.inputmethod.latin.utils.AdditionalSubtypeUtils;
+import com.timi.inputmethod.latin.utils.ScriptUtils;
+import com.timi.inputmethod.latin.utils.SuggestionResults;
 
 import java.util.Locale;
 import java.util.concurrent.ConcurrentHashMap;

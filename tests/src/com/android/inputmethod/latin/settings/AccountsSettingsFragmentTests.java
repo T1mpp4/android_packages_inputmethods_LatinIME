@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 import static org.mockito.Matchers.any;
 import static org.mockito.Mockito.when;
@@ -28,7 +28,7 @@ import android.test.suitebuilder.annotation.MediumTest;
 import android.view.View;
 import android.widget.ListView;
 
-import com.android.inputmethod.latin.utils.ManagedProfileUtils;
+import com.timi.inputmethod.latin.utils.ManagedProfileUtils;
 
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;

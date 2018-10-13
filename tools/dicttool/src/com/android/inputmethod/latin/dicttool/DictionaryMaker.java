@@ -14,18 +14,18 @@
  * the License.
  */
 
-package com.android.inputmethod.latin.dicttool;
+package com.timi.inputmethod.latin.dicttool;
 
-import com.android.inputmethod.latin.makedict.BinaryDictDecoderUtils;
-import com.android.inputmethod.latin.makedict.BinaryDictIOUtils;
-import com.android.inputmethod.latin.makedict.DictDecoder;
-import com.android.inputmethod.latin.makedict.DictEncoder;
-import com.android.inputmethod.latin.makedict.FormatSpec;
-import com.android.inputmethod.latin.makedict.FusionDictionary;
-import com.android.inputmethod.latin.makedict.MakedictLog;
-import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
-import com.android.inputmethod.latin.makedict.Ver2DictEncoder;
-import com.android.inputmethod.latin.makedict.Ver4DictEncoder;
+import com.timi.inputmethod.latin.makedict.BinaryDictDecoderUtils;
+import com.timi.inputmethod.latin.makedict.BinaryDictIOUtils;
+import com.timi.inputmethod.latin.makedict.DictDecoder;
+import com.timi.inputmethod.latin.makedict.DictEncoder;
+import com.timi.inputmethod.latin.makedict.FormatSpec;
+import com.timi.inputmethod.latin.makedict.FusionDictionary;
+import com.timi.inputmethod.latin.makedict.MakedictLog;
+import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.timi.inputmethod.latin.makedict.Ver2DictEncoder;
+import com.timi.inputmethod.latin.makedict.Ver4DictEncoder;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

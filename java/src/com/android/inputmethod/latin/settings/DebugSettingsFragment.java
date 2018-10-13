@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 import android.content.Context;
 import android.content.Intent;
@@ -27,11 +27,11 @@ import android.preference.Preference.OnPreferenceClickListener;
 import android.preference.PreferenceGroup;
 import android.preference.TwoStatePreference;
 
-import com.android.inputmethod.latin.DictionaryDumpBroadcastReceiver;
-import com.android.inputmethod.latin.DictionaryFacilitatorImpl;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.utils.ApplicationUtils;
-import com.android.inputmethod.latin.utils.ResourceUtils;
+import com.timi.inputmethod.latin.DictionaryDumpBroadcastReceiver;
+import com.timi.inputmethod.latin.DictionaryFacilitatorImpl;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.utils.ApplicationUtils;
+import com.timi.inputmethod.latin.utils.ResourceUtils;
 
 import java.util.Locale;
 

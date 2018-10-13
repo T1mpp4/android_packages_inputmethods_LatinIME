@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
-import com.android.inputmethod.latin.common.NativeSuggestOptions;
-import com.android.inputmethod.latin.define.DecoderSpecificConstants;
-import com.android.inputmethod.latin.utils.JniUtils;
+import com.timi.inputmethod.latin.common.NativeSuggestOptions;
+import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.timi.inputmethod.latin.utils.JniUtils;
 
 import java.util.Locale;
 

@@ -14,12 +14,12 @@
  * the License.
  */
 
-package com.android.inputmethod.latin.dicttool;
+package com.timi.inputmethod.latin.dicttool;
 
-import com.android.inputmethod.latin.common.FileUtils;
-import com.android.inputmethod.latin.makedict.BinaryDictDecoderEncoderTests;
-import com.android.inputmethod.latin.makedict.BinaryDictEncoderFlattenTreeTests;
-import com.android.inputmethod.latin.makedict.FusionDictionaryTest;
+import com.timi.inputmethod.latin.common.FileUtils;
+import com.timi.inputmethod.latin.makedict.BinaryDictDecoderEncoderTests;
+import com.timi.inputmethod.latin.makedict.BinaryDictEncoderFlattenTreeTests;
+import com.timi.inputmethod.latin.makedict.FusionDictionaryTest;
 
 import java.io.File;
 import java.io.IOException;

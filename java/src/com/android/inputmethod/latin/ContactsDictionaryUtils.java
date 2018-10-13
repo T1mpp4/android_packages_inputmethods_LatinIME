@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
-import com.android.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.Constants;
 
 import java.util.Locale;
 

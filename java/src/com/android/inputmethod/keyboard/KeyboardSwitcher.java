@@ -30,19 +30,19 @@ import com.android.inputmethod.keyboard.KeyboardLayoutSet.KeyboardLayoutSetExcep
 import com.android.inputmethod.keyboard.emoji.EmojiPalettesView;
 import com.android.inputmethod.keyboard.internal.KeyboardState;
 import com.android.inputmethod.keyboard.internal.KeyboardTextsSet;
-import com.android.inputmethod.latin.InputView;
-import com.android.inputmethod.latin.LatinIME;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.RichInputMethodManager;
-import com.android.inputmethod.latin.WordComposer;
-import com.android.inputmethod.latin.define.ProductionFlags;
-import com.android.inputmethod.latin.settings.Settings;
-import com.android.inputmethod.latin.settings.SettingsValues;
-import com.android.inputmethod.latin.utils.CapsModeUtils;
-import com.android.inputmethod.latin.utils.LanguageOnSpacebarUtils;
-import com.android.inputmethod.latin.utils.RecapitalizeStatus;
-import com.android.inputmethod.latin.utils.ResourceUtils;
-import com.android.inputmethod.latin.utils.ScriptUtils;
+import com.timi.inputmethod.latin.InputView;
+import com.timi.inputmethod.latin.LatinIME;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.RichInputMethodManager;
+import com.timi.inputmethod.latin.WordComposer;
+import com.timi.inputmethod.latin.define.ProductionFlags;
+import com.timi.inputmethod.latin.settings.Settings;
+import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.utils.CapsModeUtils;
+import com.timi.inputmethod.latin.utils.LanguageOnSpacebarUtils;
+import com.timi.inputmethod.latin.utils.RecapitalizeStatus;
+import com.timi.inputmethod.latin.utils.ResourceUtils;
+import com.timi.inputmethod.latin.utils.ScriptUtils;
 
 import javax.annotation.Nonnull;
 

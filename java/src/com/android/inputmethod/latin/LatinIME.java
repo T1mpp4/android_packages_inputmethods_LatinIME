@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
-import static com.android.inputmethod.latin.common.Constants.ImeOption.FORCE_ASCII;
-import static com.android.inputmethod.latin.common.Constants.ImeOption.NO_MICROPHONE;
-import static com.android.inputmethod.latin.common.Constants.ImeOption.NO_MICROPHONE_COMPAT;
+import static com.timi.inputmethod.latin.common.Constants.ImeOption.FORCE_ASCII;
+import static com.timi.inputmethod.latin.common.Constants.ImeOption.NO_MICROPHONE;
+import static com.timi.inputmethod.latin.common.Constants.ImeOption.NO_MICROPHONE_COMPAT;
 
 import android.Manifest.permission;
 import android.app.AlertDialog;
@@ -71,32 +71,32 @@ import com.android.inputmethod.keyboard.KeyboardActionListener;
 import com.android.inputmethod.keyboard.KeyboardId;
 import com.android.inputmethod.keyboard.KeyboardSwitcher;
 import com.android.inputmethod.keyboard.MainKeyboardView;
-import com.android.inputmethod.latin.Suggest.OnGetSuggestedWordsCallback;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.CoordinateUtils;
-import com.android.inputmethod.latin.common.InputPointers;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.define.ProductionFlags;
-import com.android.inputmethod.latin.inputlogic.InputLogic;
-import com.android.inputmethod.latin.permissions.PermissionsManager;
-import com.android.inputmethod.latin.personalization.PersonalizationHelper;
-import com.android.inputmethod.latin.settings.Settings;
-import com.android.inputmethod.latin.settings.SettingsActivity;
-import com.android.inputmethod.latin.settings.SettingsValues;
-import com.android.inputmethod.latin.suggestions.SuggestionStripView;
-import com.android.inputmethod.latin.suggestions.SuggestionStripViewAccessor;
-import com.android.inputmethod.latin.touchinputconsumer.GestureConsumer;
-import com.android.inputmethod.latin.utils.ApplicationUtils;
-import com.android.inputmethod.latin.utils.DialogUtils;
-import com.android.inputmethod.latin.utils.ImportantNoticeUtils;
-import com.android.inputmethod.latin.utils.IntentUtils;
-import com.android.inputmethod.latin.utils.JniUtils;
-import com.android.inputmethod.latin.utils.LeakGuardHandlerWrapper;
-import com.android.inputmethod.latin.utils.StatsUtils;
-import com.android.inputmethod.latin.utils.StatsUtilsManager;
-import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
-import com.android.inputmethod.latin.utils.ViewLayoutUtils;
+import com.timi.inputmethod.latin.Suggest.OnGetSuggestedWordsCallback;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.CoordinateUtils;
+import com.timi.inputmethod.latin.common.InputPointers;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.define.ProductionFlags;
+import com.timi.inputmethod.latin.inputlogic.InputLogic;
+import com.timi.inputmethod.latin.permissions.PermissionsManager;
+import com.timi.inputmethod.latin.personalization.PersonalizationHelper;
+import com.timi.inputmethod.latin.settings.Settings;
+import com.timi.inputmethod.latin.settings.SettingsActivity;
+import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.suggestions.SuggestionStripView;
+import com.timi.inputmethod.latin.suggestions.SuggestionStripViewAccessor;
+import com.timi.inputmethod.latin.touchinputconsumer.GestureConsumer;
+import com.timi.inputmethod.latin.utils.ApplicationUtils;
+import com.timi.inputmethod.latin.utils.DialogUtils;
+import com.timi.inputmethod.latin.utils.ImportantNoticeUtils;
+import com.timi.inputmethod.latin.utils.IntentUtils;
+import com.timi.inputmethod.latin.utils.JniUtils;
+import com.timi.inputmethod.latin.utils.LeakGuardHandlerWrapper;
+import com.timi.inputmethod.latin.utils.StatsUtils;
+import com.timi.inputmethod.latin.utils.StatsUtilsManager;
+import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.timi.inputmethod.latin.utils.ViewLayoutUtils;
 
 import java.io.FileDescriptor;
 import java.io.PrintWriter;
@@ -127,13 +127,13 @@ public class LatinIME extends InputMethodService implements KeyboardActionListen
      * A broadcast intent action to hide the software keyboard.
      */
     static final String ACTION_HIDE_SOFT_INPUT =
-            "com.android.inputmethod.latin.HIDE_SOFT_INPUT";
+            "com.timi.inputmethod.latin.HIDE_SOFT_INPUT";
 
     /**
      * A custom permission for external apps to send {@link #ACTION_HIDE_SOFT_INPUT}.
      */
     static final String PERMISSION_HIDE_SOFT_INPUT =
-            "com.android.inputmethod.latin.HIDE_SOFT_INPUT";
+            "com.timi.inputmethod.latin.HIDE_SOFT_INPUT";
 
     /**
      * The name of the scheme used by the Package Manager to warn of a new package installation,

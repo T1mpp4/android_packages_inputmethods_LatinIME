@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.touchinputconsumer;
+package com.timi.inputmethod.latin.touchinputconsumer;
 
 import android.view.inputmethod.EditorInfo;
 
 import com.android.inputmethod.keyboard.Keyboard;
-import com.android.inputmethod.latin.DictionaryFacilitator;
-import com.android.inputmethod.latin.SuggestedWords;
-import com.android.inputmethod.latin.common.InputPointers;
-import com.android.inputmethod.latin.inputlogic.PrivateCommandPerformer;
+import com.timi.inputmethod.latin.DictionaryFacilitator;
+import com.timi.inputmethod.latin.SuggestedWords;
+import com.timi.inputmethod.latin.common.InputPointers;
+import com.timi.inputmethod.latin.inputlogic.PrivateCommandPerformer;
 
 import java.util.Locale;
 

@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
-import static com.android.inputmethod.latin.settings.LocalSettingsConstants.PREF_ACCOUNT_NAME;
-import static com.android.inputmethod.latin.settings.LocalSettingsConstants.PREF_ENABLE_CLOUD_SYNC;
+import static com.timi.inputmethod.latin.settings.LocalSettingsConstants.PREF_ACCOUNT_NAME;
+import static com.timi.inputmethod.latin.settings.LocalSettingsConstants.PREF_ENABLE_CLOUD_SYNC;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -37,12 +37,12 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.accounts.AccountStateChangedListener;
-import com.android.inputmethod.latin.accounts.LoginAccountUtils;
-import com.android.inputmethod.latin.define.ProductionFlags;
-import com.android.inputmethod.latin.permissions.PermissionsUtil;
-import com.android.inputmethod.latin.utils.ManagedProfileUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.accounts.AccountStateChangedListener;
+import com.timi.inputmethod.latin.accounts.LoginAccountUtils;
+import com.timi.inputmethod.latin.define.ProductionFlags;
+import com.timi.inputmethod.latin.permissions.PermissionsUtil;
+import com.timi.inputmethod.latin.utils.ManagedProfileUtils;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

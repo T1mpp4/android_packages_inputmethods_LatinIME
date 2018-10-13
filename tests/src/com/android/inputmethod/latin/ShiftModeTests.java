@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.test.suitebuilder.annotation.LargeTest;
 import android.text.TextUtils;
 import android.view.inputmethod.EditorInfo;
 
-import com.android.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.Constants;
 
 @LargeTest
 public class ShiftModeTests extends InputTestsBase {

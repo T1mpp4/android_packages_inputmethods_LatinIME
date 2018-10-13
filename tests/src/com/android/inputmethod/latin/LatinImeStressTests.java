@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.test.suitebuilder.annotation.LargeTest;
 
-import com.android.inputmethod.latin.common.CodePointUtils;
+import com.timi.inputmethod.latin.common.CodePointUtils;
 
 import java.util.Random;
 

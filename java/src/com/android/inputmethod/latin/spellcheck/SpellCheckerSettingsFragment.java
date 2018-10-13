@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.spellcheck;
+package com.timi.inputmethod.latin.spellcheck;
 
 import android.Manifest;
 import android.content.SharedPreferences;
@@ -23,14 +23,14 @@ import android.preference.PreferenceScreen;
 import android.preference.SwitchPreference;
 import android.text.TextUtils;
 
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.permissions.PermissionsManager;
-import com.android.inputmethod.latin.permissions.PermissionsUtil;
-import com.android.inputmethod.latin.settings.SubScreenFragment;
-import com.android.inputmethod.latin.settings.TwoStatePreferenceHelper;
-import com.android.inputmethod.latin.utils.ApplicationUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.permissions.PermissionsManager;
+import com.timi.inputmethod.latin.permissions.PermissionsUtil;
+import com.timi.inputmethod.latin.settings.SubScreenFragment;
+import com.timi.inputmethod.latin.settings.TwoStatePreferenceHelper;
+import com.timi.inputmethod.latin.utils.ApplicationUtils;
 
-import static com.android.inputmethod.latin.permissions.PermissionsManager.get;
+import static com.timi.inputmethod.latin.permissions.PermissionsManager.get;
 
 /**
  * Preference screen.

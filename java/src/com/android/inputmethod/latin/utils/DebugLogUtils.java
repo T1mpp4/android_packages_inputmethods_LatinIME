@@ -14,11 +14,11 @@
  * the License.
  */
 
-package com.android.inputmethod.latin.utils;
+package com.timi.inputmethod.latin.utils;
 
 import android.util.Log;
 
-import com.android.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.define.DebugFlags;
 
 /**
  * A class for logging and debugging utility methods.

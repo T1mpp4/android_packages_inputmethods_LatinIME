@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.settings;
+package com.timi.inputmethod.latin.settings;
 
 import android.content.Context;
 import android.preference.Preference;
@@ -22,7 +22,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.RadioButton;
 
-import com.android.inputmethod.latin.R;
+import com.timi.inputmethod.latin.R;
 
 /**
  * Radio Button preference

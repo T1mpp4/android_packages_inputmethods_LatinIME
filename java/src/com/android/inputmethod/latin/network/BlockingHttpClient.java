@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.network;
+package com.timi.inputmethod.latin.network;
 
 import android.util.Log;
 

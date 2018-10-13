@@ -19,8 +19,8 @@ package com.android.inputmethod.keyboard.layout.expected;
 import com.android.inputmethod.keyboard.Key;
 import com.android.inputmethod.keyboard.internal.KeyboardIconsSet;
 import com.android.inputmethod.keyboard.internal.MoreKeySpec;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;

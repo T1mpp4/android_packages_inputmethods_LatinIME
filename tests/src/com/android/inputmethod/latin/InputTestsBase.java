@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -40,15 +40,15 @@ import com.android.inputmethod.compat.InputMethodSubtypeCompatUtils;
 import com.android.inputmethod.event.Event;
 import com.android.inputmethod.keyboard.Key;
 import com.android.inputmethod.keyboard.Keyboard;
-import com.android.inputmethod.latin.Dictionary.PhonyDictionary;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.common.InputPointers;
-import com.android.inputmethod.latin.common.LocaleUtils;
-import com.android.inputmethod.latin.common.StringUtils;
-import com.android.inputmethod.latin.settings.DebugSettings;
-import com.android.inputmethod.latin.settings.Settings;
-import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.timi.inputmethod.latin.Dictionary.PhonyDictionary;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.common.InputPointers;
+import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.timi.inputmethod.latin.common.StringUtils;
+import com.timi.inputmethod.latin.settings.DebugSettings;
+import com.timi.inputmethod.latin.settings.Settings;
+import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;

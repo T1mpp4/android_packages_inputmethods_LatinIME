@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
 import android.Manifest;
 import android.content.ContentResolver;
@@ -24,10 +24,10 @@ import android.os.SystemClock;
 import android.provider.ContactsContract.Contacts;
 import android.util.Log;
 
-import com.android.inputmethod.latin.ContactsManager.ContactsChangedListener;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.permissions.PermissionsUtil;
-import com.android.inputmethod.latin.utils.ExecutorUtils;
+import com.timi.inputmethod.latin.ContactsManager.ContactsChangedListener;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.permissions.PermissionsUtil;
+import com.timi.inputmethod.latin.utils.ExecutorUtils;
 
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicBoolean;

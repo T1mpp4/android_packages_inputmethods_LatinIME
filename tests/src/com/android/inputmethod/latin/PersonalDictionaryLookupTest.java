@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin;
+package com.timi.inputmethod.latin;
 
-import static com.android.inputmethod.latin.PersonalDictionaryLookup.ANY_LOCALE;
+import static com.timi.inputmethod.latin.PersonalDictionaryLookup.ANY_LOCALE;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.times;
@@ -32,8 +32,8 @@ import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.util.Log;
 
-import com.android.inputmethod.latin.PersonalDictionaryLookup.PersonalDictionaryListener;
-import com.android.inputmethod.latin.utils.ExecutorUtils;
+import com.timi.inputmethod.latin.PersonalDictionaryLookup.PersonalDictionaryListener;
+import com.timi.inputmethod.latin.utils.ExecutorUtils;
 
 import java.util.HashSet;
 import java.util.Locale;

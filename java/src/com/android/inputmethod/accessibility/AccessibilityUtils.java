@@ -33,9 +33,9 @@ import android.view.accessibility.AccessibilityManager;
 import android.view.inputmethod.EditorInfo;
 
 import com.android.inputmethod.compat.SettingsSecureCompatUtils;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.SuggestedWords;
-import com.android.inputmethod.latin.utils.InputTypeUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.SuggestedWords;
+import com.timi.inputmethod.latin.utils.InputTypeUtils;
 
 public final class AccessibilityUtils {
     private static final String TAG = AccessibilityUtils.class.getSimpleName();

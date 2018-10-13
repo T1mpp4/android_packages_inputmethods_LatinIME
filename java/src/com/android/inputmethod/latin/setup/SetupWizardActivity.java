@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.setup;
+package com.timi.inputmethod.latin.setup;
 
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -35,10 +35,10 @@ import android.widget.VideoView;
 
 import com.android.inputmethod.compat.TextViewCompatUtils;
 import com.android.inputmethod.compat.ViewCompatUtils;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.settings.SettingsActivity;
-import com.android.inputmethod.latin.utils.LeakGuardHandlerWrapper;
-import com.android.inputmethod.latin.utils.UncachedInputMethodManagerUtils;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.settings.SettingsActivity;
+import com.timi.inputmethod.latin.utils.LeakGuardHandlerWrapper;
+import com.timi.inputmethod.latin.utils.UncachedInputMethodManagerUtils;
 
 import java.util.ArrayList;
 

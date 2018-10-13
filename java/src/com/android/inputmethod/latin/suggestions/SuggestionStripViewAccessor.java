@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.suggestions;
+package com.timi.inputmethod.latin.suggestions;
 
-import com.android.inputmethod.latin.SuggestedWords;
+import com.timi.inputmethod.latin.SuggestedWords;
 
 /**
  * An object that gives basic control of a suggestion strip and some info on it.

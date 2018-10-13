@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.inputmethod.latin.suggestions;
+package com.timi.inputmethod.latin.suggestions;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -42,16 +42,16 @@ import com.android.inputmethod.accessibility.AccessibilityUtils;
 import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.MainKeyboardView;
 import com.android.inputmethod.keyboard.MoreKeysPanel;
-import com.android.inputmethod.latin.AudioAndHapticFeedbackManager;
-import com.android.inputmethod.latin.R;
-import com.android.inputmethod.latin.SuggestedWords;
-import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.android.inputmethod.latin.common.Constants;
-import com.android.inputmethod.latin.define.DebugFlags;
-import com.android.inputmethod.latin.settings.Settings;
-import com.android.inputmethod.latin.settings.SettingsValues;
-import com.android.inputmethod.latin.suggestions.MoreSuggestionsView.MoreSuggestionsListener;
-import com.android.inputmethod.latin.utils.ImportantNoticeUtils;
+import com.timi.inputmethod.latin.AudioAndHapticFeedbackManager;
+import com.timi.inputmethod.latin.R;
+import com.timi.inputmethod.latin.SuggestedWords;
+import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.timi.inputmethod.latin.common.Constants;
+import com.timi.inputmethod.latin.define.DebugFlags;
+import com.timi.inputmethod.latin.settings.Settings;
+import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.timi.inputmethod.latin.suggestions.MoreSuggestionsView.MoreSuggestionsListener;
+import com.timi.inputmethod.latin.utils.ImportantNoticeUtils;
 
 import java.util.ArrayList;
 
