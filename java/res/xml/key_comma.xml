@@ -19,12 +19,10 @@
 -->
 
 <merge
-    xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin"
->
+    xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin" >
     <switch>
         <case
-            latin:keyboardLayoutSet="dvorak"
-        >
+            latin:keyboardLayoutSet="dvorak" >
             <Key
                 latin:keySpec="q"
                 latin:moreKeys="!text/morekeys_q,%"
@@ -32,15 +30,13 @@
                 latin:keyStyle="settingsMoreKeysStyle" />
         </case>
         <case
-            latin:mode="url"
-        >
+            latin:mode="url" >
             <Key
                 latin:keySpec="/"
                 latin:keyStyle="settingsMoreKeysStyle" />
         </case>
         <case
-            latin:mode="email"
-        >
+            latin:mode="email" >
             <Key
                 latin:keySpec="\@"
                 latin:keyStyle="settingsMoreKeysStyle" />
