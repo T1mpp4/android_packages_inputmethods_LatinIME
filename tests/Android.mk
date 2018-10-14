@@ -26,7 +26,9 @@ LOCAL_AAPT_FLAGS += -0 .txt
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-test \
-    mockito-target-minus-junit4
+    mockito-target-minus-junit4 \
+    latinime-common \
+    mockito-target
 
 LOCAL_JAVA_LIBRARIES := android.test.mock.sdk legacy-android-test
 

@@ -19,11 +19,15 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src ../java-overridable/src)
 
-LOCAL_PACKAGE_NAME := LatinIME
+LOCAL_PACKAGE_NAME := tIME
+
+LOCAL_OVERRIDES_PACKAGES := LatinIME
 
 LOCAL_CERTIFICATE := shared
 
 LOCAL_JNI_SHARED_LIBRARIES := libjni_latinime
+
+LOCAL_REQUIRED_MODULES := libjni_latinime
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
         android-common inputmethod-common jsr305 latinime-common
@@ -42,5 +46,8 @@ LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
 LOCAL_SDK_VERSION := current
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
+
+LOCAL_MODULE_PATH := $(TARGET_OUT_DATA)
+LOCAL_MULTILIB := both
 
 include $(BUILD_PACKAGE)
