@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;

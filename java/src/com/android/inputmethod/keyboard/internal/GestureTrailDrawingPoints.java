@@ -23,8 +23,8 @@ import android.graphics.Path;
 import android.graphics.Rect;
 import android.os.SystemClock;
 
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.common.ResizableIntArray;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.ResizableIntArray;
 
 /**
  * This class holds drawing points to represent a gesture trail. The gesture trail may contain

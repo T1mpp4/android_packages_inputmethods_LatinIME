@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -23,9 +23,9 @@ import android.test.suitebuilder.annotation.SmallTest;
 import android.view.inputmethod.InputMethodInfo;
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.RichInputMethodSubtype;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.RichInputMethodSubtype;
 
 import java.util.ArrayList;
 import java.util.Locale;

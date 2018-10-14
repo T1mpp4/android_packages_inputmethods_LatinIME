@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.define;
+package com.android.inputmethod.latin.define;
 
 import android.content.SharedPreferences;
 

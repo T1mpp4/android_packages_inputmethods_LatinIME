@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import com.android.inputmethod.dictionarypack.DictionaryPackConstants;
-import com.timi.inputmethod.latin.utils.TargetPackageInfoGetterTask;
+import com.android.inputmethod.latin.utils.TargetPackageInfoGetterTask;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

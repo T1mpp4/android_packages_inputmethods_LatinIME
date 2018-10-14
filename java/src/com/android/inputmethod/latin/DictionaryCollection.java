@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.util.Log;
 
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.timi.inputmethod.latin.common.ComposedData;
-import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.common.ComposedData;
+import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
 
 import java.util.ArrayList;
 import java.util.Collection;

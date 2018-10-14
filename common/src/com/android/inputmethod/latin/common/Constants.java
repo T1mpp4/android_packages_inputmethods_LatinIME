@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.common;
+package com.android.inputmethod.latin.common;
 
 import com.android.inputmethod.annotations.UsedForTesting;
 
@@ -65,7 +65,7 @@ public final class Constants {
         /**
          * The private IME option used to suppress the floating gesture preview for a given text
          * field. This overrides the corresponding keyboard settings preference.
-         * {@link com.timi.inputmethod.latin.settings.SettingsValues#mGestureFloatingPreviewTextEnabled}
+         * {@link com.android.inputmethod.latin.settings.SettingsValues#mGestureFloatingPreviewTextEnabled}
          */
         public static final String NO_FLOATING_GESTURE_PREVIEW = "noGestureFloatingPreview";
 
@@ -295,7 +295,7 @@ public final class Constants {
 
     /**
      * Screen metrics (a.k.a. Device form factor) constants of
-     * {@link com.timi.inputmethod.latin.R.integer#config_screen_metrics}.
+     * {@link com.android.inputmethod.latin.R.integer#config_screen_metrics}.
      */
     public static final int SCREEN_METRICS_SMALL_PHONE = 0;
     public static final int SCREEN_METRICS_LARGE_PHONE = 1;

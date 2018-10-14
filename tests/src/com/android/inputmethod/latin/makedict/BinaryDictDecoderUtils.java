@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.makedict;
+package com.android.inputmethod.latin.makedict;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
 
 import java.io.File;
 import java.io.IOException;

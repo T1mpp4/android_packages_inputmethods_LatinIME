@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.timi.inputmethod.latin.define.ProductionFlags;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.define.ProductionFlags;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -14,22 +14,22 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
-import static com.timi.inputmethod.latin.utils.LanguageOnSpacebarUtils.FORMAT_TYPE_FULL_LOCALE;
-import static com.timi.inputmethod.latin.utils.LanguageOnSpacebarUtils.FORMAT_TYPE_LANGUAGE_ONLY;
-import static com.timi.inputmethod.latin.utils.LanguageOnSpacebarUtils.FORMAT_TYPE_NONE;
+import static com.android.inputmethod.latin.utils.LanguageOnSpacebarUtils.FORMAT_TYPE_FULL_LOCALE;
+import static com.android.inputmethod.latin.utils.LanguageOnSpacebarUtils.FORMAT_TYPE_LANGUAGE_ONLY;
+import static com.android.inputmethod.latin.utils.LanguageOnSpacebarUtils.FORMAT_TYPE_NONE;
 
 import android.content.Context;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.RichInputMethodSubtype;
-import com.timi.inputmethod.latin.utils.AdditionalSubtypeUtils;
-import com.timi.inputmethod.latin.utils.LanguageOnSpacebarUtils;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.RichInputMethodSubtype;
+import com.android.inputmethod.latin.utils.AdditionalSubtypeUtils;
+import com.android.inputmethod.latin.utils.LanguageOnSpacebarUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.ArrayList;
 import java.util.Locale;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -34,10 +34,10 @@ import android.widget.SpinnerAdapter;
 
 import com.android.inputmethod.compat.InputMethodSubtypeCompatUtils;
 import com.android.inputmethod.compat.ViewCompatUtils;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.utils.AdditionalSubtypeUtils;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.utils.AdditionalSubtypeUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.TreeSet;
 

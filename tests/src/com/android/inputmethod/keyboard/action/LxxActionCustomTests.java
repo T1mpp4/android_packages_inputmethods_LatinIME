@@ -20,7 +20,7 @@ import android.test.suitebuilder.annotation.LargeTest;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 @LargeTest
 public class LxxActionCustomTests extends LxxActionTestsBase {

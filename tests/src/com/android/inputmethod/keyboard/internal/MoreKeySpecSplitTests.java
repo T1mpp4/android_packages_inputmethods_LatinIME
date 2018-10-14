@@ -21,7 +21,7 @@ import android.content.res.Resources;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.timi.inputmethod.latin.R;
+import com.android.inputmethod.latin.R;
 
 import java.util.Arrays;
 import java.util.Locale;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -23,8 +23,8 @@ import android.preference.Preference;
 import android.preference.PreferenceScreen;
 
 import com.android.inputmethod.keyboard.KeyboardTheme;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.settings.RadioButtonPreference.OnRadioButtonClickedListener;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.settings.RadioButtonPreference.OnRadioButtonClickedListener;
 
 /**
  * "Keyboard theme" settings sub screen.

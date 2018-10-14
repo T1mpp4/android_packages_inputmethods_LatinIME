@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.userdictionary;
+package com.android.inputmethod.latin.userdictionary;
 
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.userdictionary.UserDictionaryAddWordContents.LocaleRenderer;
-import com.timi.inputmethod.latin.userdictionary.UserDictionaryLocalePicker.LocationChangedListener;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.userdictionary.UserDictionaryAddWordContents.LocaleRenderer;
+import com.android.inputmethod.latin.userdictionary.UserDictionaryLocalePicker.LocationChangedListener;
 
 import android.app.Fragment;
 import android.os.Bundle;

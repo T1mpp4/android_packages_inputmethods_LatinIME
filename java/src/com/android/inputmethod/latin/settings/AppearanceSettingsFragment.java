@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.os.Bundle;
 
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.define.ProductionFlags;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.define.ProductionFlags;
 
 /**
  * "Appearance" settings sub screen.

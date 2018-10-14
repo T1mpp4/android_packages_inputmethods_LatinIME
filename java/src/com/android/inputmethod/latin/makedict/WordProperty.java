@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.makedict;
+package com.android.inputmethod.latin.makedict;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.BinaryDictionary;
-import com.timi.inputmethod.latin.Dictionary;
-import com.timi.inputmethod.latin.NgramContext;
-import com.timi.inputmethod.latin.NgramContext.WordInfo;
-import com.timi.inputmethod.latin.common.StringUtils;
-import com.timi.inputmethod.latin.utils.CombinedFormatUtils;
+import com.android.inputmethod.latin.BinaryDictionary;
+import com.android.inputmethod.latin.Dictionary;
+import com.android.inputmethod.latin.NgramContext;
+import com.android.inputmethod.latin.NgramContext.WordInfo;
+import com.android.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.utils.CombinedFormatUtils;
 
 import java.util.ArrayList;
 import java.util.Arrays;

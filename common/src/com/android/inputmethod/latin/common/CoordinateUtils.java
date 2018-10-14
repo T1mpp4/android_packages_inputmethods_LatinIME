@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.common;
+package com.android.inputmethod.latin.common;
 
 import javax.annotation.Nonnull;
 

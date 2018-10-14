@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.personalization;
+package com.android.inputmethod.latin.personalization;
 
 import android.content.Context;
 import android.util.Log;
 
-import com.timi.inputmethod.latin.common.FileUtils;
+import com.android.inputmethod.latin.common.FileUtils;
 
 import java.io.File;
 import java.io.FilenameFilter;

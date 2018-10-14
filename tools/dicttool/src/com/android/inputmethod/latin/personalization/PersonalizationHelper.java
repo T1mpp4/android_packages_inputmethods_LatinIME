@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.personalization;
+package com.android.inputmethod.latin.personalization;
 
 @SuppressWarnings("unused")
 public class PersonalizationHelper {

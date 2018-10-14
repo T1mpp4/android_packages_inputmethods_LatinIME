@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.content.Context;
 import android.graphics.Rect;
@@ -25,8 +25,8 @@ import android.widget.FrameLayout;
 
 import com.android.inputmethod.accessibility.AccessibilityUtils;
 import com.android.inputmethod.keyboard.MainKeyboardView;
-import com.timi.inputmethod.latin.suggestions.MoreSuggestionsView;
-import com.timi.inputmethod.latin.suggestions.SuggestionStripView;
+import com.android.inputmethod.latin.suggestions.MoreSuggestionsView;
+import com.android.inputmethod.latin.suggestions.SuggestionStripView;
 
 public final class InputView extends FrameLayout {
     private final Rect mInputViewRect = new Rect();

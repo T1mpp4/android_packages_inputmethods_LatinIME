@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -21,7 +21,7 @@ import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.keyboard.KeyboardLayoutSetTestsBase;
 import com.android.inputmethod.keyboard.KeyboardTheme;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.ArrayList;
 

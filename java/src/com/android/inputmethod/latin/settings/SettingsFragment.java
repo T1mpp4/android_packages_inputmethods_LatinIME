@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -27,11 +27,11 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.define.ProductionFlags;
-import com.timi.inputmethod.latin.utils.ApplicationUtils;
-import com.timi.inputmethod.latin.utils.FeedbackUtils;
-import com.timi.inputmethod.latin.utils.JniUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.define.ProductionFlags;
+import com.android.inputmethod.latin.utils.ApplicationUtils;
+import com.android.inputmethod.latin.utils.FeedbackUtils;
+import com.android.inputmethod.latin.utils.JniUtils;
 import com.android.inputmethodcommon.InputMethodSettingsFragment;
 
 public final class SettingsFragment extends InputMethodSettingsFragment {

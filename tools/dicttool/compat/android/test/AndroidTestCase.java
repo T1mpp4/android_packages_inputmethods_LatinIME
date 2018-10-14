@@ -16,7 +16,7 @@
 
 package android.test;
 
-import com.timi.inputmethod.latin.dicttool.Test;
+import com.android.inputmethod.latin.dicttool.Test;
 
 import junit.framework.TestCase;
 

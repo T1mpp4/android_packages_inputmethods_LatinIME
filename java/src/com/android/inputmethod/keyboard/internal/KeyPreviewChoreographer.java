@@ -23,8 +23,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.android.inputmethod.keyboard.Key;
-import com.timi.inputmethod.latin.common.CoordinateUtils;
-import com.timi.inputmethod.latin.utils.ViewLayoutUtils;
+import com.android.inputmethod.latin.common.CoordinateUtils;
+import com.android.inputmethod.latin.utils.ViewLayoutUtils;
 
 import java.util.ArrayDeque;
 import java.util.HashMap;

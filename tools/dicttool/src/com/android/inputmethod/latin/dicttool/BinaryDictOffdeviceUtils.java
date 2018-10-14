@@ -14,17 +14,17 @@
  * the License.
  */
 
-package com.timi.inputmethod.latin.dicttool;
+package com.android.inputmethod.latin.dicttool;
 
-import com.timi.inputmethod.latin.makedict.BinaryDictDecoderUtils;
-import com.timi.inputmethod.latin.makedict.BinaryDictIOUtils;
-import com.timi.inputmethod.latin.makedict.DictDecoder;
-import com.timi.inputmethod.latin.makedict.DictionaryHeader;
-import com.timi.inputmethod.latin.makedict.FormatSpec;
-import com.timi.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
-import com.timi.inputmethod.latin.makedict.FormatSpec.FormatOptions;
-import com.timi.inputmethod.latin.makedict.FusionDictionary;
-import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.android.inputmethod.latin.makedict.BinaryDictDecoderUtils;
+import com.android.inputmethod.latin.makedict.BinaryDictIOUtils;
+import com.android.inputmethod.latin.makedict.DictDecoder;
+import com.android.inputmethod.latin.makedict.DictionaryHeader;
+import com.android.inputmethod.latin.makedict.FormatSpec;
+import com.android.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
+import com.android.inputmethod.latin.makedict.FormatSpec.FormatOptions;
+import com.android.inputmethod.latin.makedict.FusionDictionary;
+import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

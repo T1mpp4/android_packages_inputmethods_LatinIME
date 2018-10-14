@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.Manifest;
 import android.content.Context;
@@ -24,16 +24,16 @@ import android.util.LruCache;
 
 import com.android.inputmethod.annotations.UsedForTesting;
 import com.android.inputmethod.keyboard.Keyboard;
-import com.timi.inputmethod.latin.NgramContext.WordInfo;
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.timi.inputmethod.latin.common.ComposedData;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.common.StringUtils;
-import com.timi.inputmethod.latin.permissions.PermissionsUtil;
-import com.timi.inputmethod.latin.personalization.UserHistoryDictionary;
-import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
-import com.timi.inputmethod.latin.utils.ExecutorUtils;
-import com.timi.inputmethod.latin.utils.SuggestionResults;
+import com.android.inputmethod.latin.NgramContext.WordInfo;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.common.ComposedData;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.permissions.PermissionsUtil;
+import com.android.inputmethod.latin.personalization.UserHistoryDictionary;
+import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.android.inputmethod.latin.utils.ExecutorUtils;
+import com.android.inputmethod.latin.utils.SuggestionResults;
 
 import java.io.File;
 import java.lang.reflect.InvocationTargetException;

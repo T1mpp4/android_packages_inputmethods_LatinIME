@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
-import static com.timi.inputmethod.latin.common.Constants.Subtype.ExtraValue.COMBINING_RULES;
-import static com.timi.inputmethod.latin.common.Constants.Subtype.ExtraValue.KEYBOARD_LAYOUT_SET;
-import static com.timi.inputmethod.latin.common.Constants.Subtype.ExtraValue.UNTRANSLATABLE_STRING_IN_SUBTYPE_NAME;
+import static com.android.inputmethod.latin.common.Constants.Subtype.ExtraValue.COMBINING_RULES;
+import static com.android.inputmethod.latin.common.Constants.Subtype.ExtraValue.KEYBOARD_LAYOUT_SET;
+import static com.android.inputmethod.latin.common.Constants.Subtype.ExtraValue.UNTRANSLATABLE_STRING_IN_SUBTYPE_NAME;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -26,9 +26,9 @@ import android.os.Build;
 import android.util.Log;
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.common.LocaleUtils;
-import com.timi.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.common.LocaleUtils;
+import com.android.inputmethod.latin.common.StringUtils;
 
 import java.util.HashMap;
 import java.util.Locale;

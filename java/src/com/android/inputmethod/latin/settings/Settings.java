@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -26,15 +26,15 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.android.inputmethod.compat.BuildCompatUtils;
-import com.timi.inputmethod.latin.AudioAndHapticFeedbackManager;
-import com.timi.inputmethod.latin.InputAttributes;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.common.StringUtils;
-import com.timi.inputmethod.latin.utils.AdditionalSubtypeUtils;
-import com.timi.inputmethod.latin.utils.JniUtils;
-import com.timi.inputmethod.latin.utils.ResourceUtils;
-import com.timi.inputmethod.latin.utils.RunInLocale;
-import com.timi.inputmethod.latin.utils.StatsUtils;
+import com.android.inputmethod.latin.AudioAndHapticFeedbackManager;
+import com.android.inputmethod.latin.InputAttributes;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.utils.AdditionalSubtypeUtils;
+import com.android.inputmethod.latin.utils.JniUtils;
+import com.android.inputmethod.latin.utils.ResourceUtils;
+import com.android.inputmethod.latin.utils.RunInLocale;
+import com.android.inputmethod.latin.utils.StatsUtils;
 
 import java.util.Collections;
 import java.util.Locale;

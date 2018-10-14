@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.app.backup.BackupAgentHelper;
 import android.app.backup.BackupDataInput;
@@ -22,7 +22,7 @@ import android.app.backup.SharedPreferencesBackupHelper;
 import android.content.SharedPreferences;
 import android.os.ParcelFileDescriptor;
 
-import com.timi.inputmethod.latin.settings.LocalSettingsConstants;
+import com.android.inputmethod.latin.settings.LocalSettingsConstants;
 
 import java.io.IOException;
 

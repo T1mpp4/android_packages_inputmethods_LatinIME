@@ -15,12 +15,12 @@
  */
 
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
 import android.content.Context;
 
-import com.timi.inputmethod.latin.DictionaryFacilitator;
-import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.android.inputmethod.latin.DictionaryFacilitator;
+import com.android.inputmethod.latin.settings.SettingsValues;
 
 @SuppressWarnings("unused")
 public class StatsUtilsManager {

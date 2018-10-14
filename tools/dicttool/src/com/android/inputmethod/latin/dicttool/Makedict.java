@@ -14,9 +14,9 @@
  * the License.
  */
 
-package com.timi.inputmethod.latin.dicttool;
+package com.android.inputmethod.latin.dicttool;
 
-import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
-import static com.timi.inputmethod.latin.common.Constants.Subtype.KEYBOARD_MODE;
+import static com.android.inputmethod.latin.common.Constants.Subtype.KEYBOARD_MODE;
 
 import android.os.Build;
 import android.util.Log;
@@ -24,9 +24,9 @@ import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.compat.BuildCompatUtils;
 import com.android.inputmethod.compat.InputMethodSubtypeCompatUtils;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.common.LocaleUtils;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.LocaleUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.HashMap;
 import java.util.Locale;

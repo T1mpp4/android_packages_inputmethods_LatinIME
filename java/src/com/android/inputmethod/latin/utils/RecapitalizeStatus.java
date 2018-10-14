@@ -14,9 +14,9 @@
  * the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
-import com.timi.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.common.StringUtils;
 
 import java.util.Locale;
 

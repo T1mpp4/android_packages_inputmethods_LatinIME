@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.text.TextUtils;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.common.StringUtils;
-import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
+import com.android.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.define.DecoderSpecificConstants;
 
 import java.util.ArrayList;
 import java.util.Arrays;

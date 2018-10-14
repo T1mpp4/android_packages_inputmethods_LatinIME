@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.timi.inputmethod.latin.dicttool;
+package com.android.inputmethod.latin.dicttool;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.suggestions;
+package com.android.inputmethod.latin.suggestions;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -24,10 +24,10 @@ import com.android.inputmethod.keyboard.Key;
 import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.KeyboardActionListener;
 import com.android.inputmethod.keyboard.MoreKeysKeyboardView;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.SuggestedWords;
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.timi.inputmethod.latin.suggestions.MoreSuggestions.MoreSuggestionKey;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.suggestions.MoreSuggestions.MoreSuggestionKey;
 
 /**
  * A view that renders a virtual {@link MoreSuggestions}. It handles rendering of keys and detecting

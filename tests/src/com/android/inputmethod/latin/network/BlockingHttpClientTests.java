@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.network;
+package com.android.inputmethod.latin.network;
 
 import static org.mockito.Matchers.any;
 import static org.mockito.Matchers.eq;
@@ -24,7 +24,7 @@ import static org.mockito.Mockito.when;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.timi.inputmethod.latin.network.BlockingHttpClient.ResponseProcessor;
+import com.android.inputmethod.latin.network.BlockingHttpClient.ResponseProcessor;
 
 import org.mockito.Mock;
 import org.mockito.Mockito;

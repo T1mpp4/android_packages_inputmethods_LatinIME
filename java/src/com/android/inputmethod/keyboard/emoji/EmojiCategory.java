@@ -30,8 +30,8 @@ import com.android.inputmethod.keyboard.Key;
 import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.KeyboardId;
 import com.android.inputmethod.keyboard.KeyboardLayoutSet;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.settings.Settings;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.settings.Settings;
 
 import java.util.ArrayList;
 import java.util.Collections;

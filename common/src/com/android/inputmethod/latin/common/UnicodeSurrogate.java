@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.timi.inputmethod.latin.common;
+package com.android.inputmethod.latin.common;
 
 /**
  * Emojis are supplementary characters expressed as a low+high pair. For instance,

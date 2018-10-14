@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 public class SettingsValuesForSuggestion {
     public final boolean mBlockPotentiallyOffensive;

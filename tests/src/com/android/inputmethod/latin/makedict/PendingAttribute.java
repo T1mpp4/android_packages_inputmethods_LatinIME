@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.makedict;
+package com.android.inputmethod.latin.makedict;
 
 /**
  * A not-yet-resolved attribute.

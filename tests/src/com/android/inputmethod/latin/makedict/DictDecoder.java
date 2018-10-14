@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.makedict;
+package com.android.inputmethod.latin.makedict;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.makedict.BinaryDictDecoderUtils.DictBuffer;
-import com.timi.inputmethod.latin.utils.ByteArrayDictBuffer;
+import com.android.inputmethod.latin.makedict.BinaryDictDecoderUtils.DictBuffer;
+import com.android.inputmethod.latin.utils.ByteArrayDictBuffer;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.personalization;
+package com.android.inputmethod.latin.personalization;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.LargeTest;
 import android.util.Log;
 
-import com.timi.inputmethod.latin.ExpandableBinaryDictionary;
-import com.timi.inputmethod.latin.utils.BinaryDictionaryUtils;
+import com.android.inputmethod.latin.ExpandableBinaryDictionary;
+import com.android.inputmethod.latin.utils.BinaryDictionaryUtils;
 
 import java.io.File;
 import java.util.Locale;

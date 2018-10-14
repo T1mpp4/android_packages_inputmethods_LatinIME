@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -26,12 +26,12 @@ import android.util.Log;
 import android.view.inputmethod.EditorInfo;
 
 import com.android.inputmethod.compat.AppWorkaroundsUtils;
-import com.timi.inputmethod.latin.InputAttributes;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.utils.AsyncResultHolder;
-import com.timi.inputmethod.latin.utils.ResourceUtils;
-import com.timi.inputmethod.latin.utils.TargetPackageInfoGetterTask;
+import com.android.inputmethod.latin.InputAttributes;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.utils.AsyncResultHolder;
+import com.android.inputmethod.latin.utils.ResourceUtils;
+import com.android.inputmethod.latin.utils.TargetPackageInfoGetterTask;
 
 import java.util.Arrays;
 import java.util.Locale;
@@ -41,7 +41,7 @@ import javax.annotation.Nullable;
 
 /**
  * When you call the constructor of this class, you may want to change the current system locale by
- * using {@link com.timi.inputmethod.latin.utils.RunInLocale}.
+ * using {@link com.android.inputmethod.latin.utils.RunInLocale}.
  */
 // Non-final for testing via mock library.
 public class SettingsValues {

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 public class AdditionalFeaturesSettingUtils {
     public static final int ADDITIONAL_FEATURES_SETTINGS_SIZE = 0;

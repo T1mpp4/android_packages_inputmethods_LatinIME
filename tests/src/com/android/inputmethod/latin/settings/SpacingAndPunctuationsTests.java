@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
 import android.content.res.Resources;
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.timi.inputmethod.latin.SuggestedWords;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.utils.RunInLocale;
+import com.android.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.utils.RunInLocale;
 
 import junit.framework.AssertionFailedError;
 

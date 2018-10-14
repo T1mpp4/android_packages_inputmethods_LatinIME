@@ -16,7 +16,7 @@
 
 package com.android.inputmethod.event;
 
-import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.android.inputmethod.latin.settings.SettingsValues;
 
 /**
  * An object encapsulating a single transaction for input.

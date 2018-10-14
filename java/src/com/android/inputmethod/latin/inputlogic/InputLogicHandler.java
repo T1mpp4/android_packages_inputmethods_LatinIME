@@ -14,17 +14,17 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.inputlogic;
+package com.android.inputmethod.latin.inputlogic;
 
 import android.os.Handler;
 import android.os.HandlerThread;
 import android.os.Message;
 
 import com.android.inputmethod.compat.LooperCompatUtils;
-import com.timi.inputmethod.latin.LatinIME;
-import com.timi.inputmethod.latin.SuggestedWords;
-import com.timi.inputmethod.latin.Suggest.OnGetSuggestedWordsCallback;
-import com.timi.inputmethod.latin.common.InputPointers;
+import com.android.inputmethod.latin.LatinIME;
+import com.android.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.Suggest.OnGetSuggestedWordsCallback;
+import com.android.inputmethod.latin.common.InputPointers;
 
 /**
  * A helper to manage deferred tasks for the input logic.

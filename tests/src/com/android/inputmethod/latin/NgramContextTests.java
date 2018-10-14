@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
-import com.timi.inputmethod.latin.NgramContext.WordInfo;
-import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
-import com.timi.inputmethod.latin.utils.NgramContextUtils;
+import com.android.inputmethod.latin.NgramContext.WordInfo;
+import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.android.inputmethod.latin.utils.NgramContextUtils;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;

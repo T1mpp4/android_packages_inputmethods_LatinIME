@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.personalization;
+package com.android.inputmethod.latin.personalization;
 
 import android.content.Context;
 
-import com.timi.inputmethod.latin.BinaryDictionary;
-import com.timi.inputmethod.latin.NgramContext;
-import com.timi.inputmethod.latin.NgramContext.WordInfo;
-import com.timi.inputmethod.latin.common.FileUtils;
+import com.android.inputmethod.latin.BinaryDictionary;
+import com.android.inputmethod.latin.NgramContext;
+import com.android.inputmethod.latin.NgramContext.WordInfo;
+import com.android.inputmethod.latin.common.FileUtils;
 
 import java.io.File;
 import java.io.FilenameFilter;

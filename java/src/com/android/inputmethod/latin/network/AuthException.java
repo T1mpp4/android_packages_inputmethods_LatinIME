@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.network;
+package com.android.inputmethod.latin.network;
 
 /**
  * Authentication exception. When this exception is thrown, the client may

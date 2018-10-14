@@ -20,9 +20,9 @@ import android.content.res.Resources;
 import android.util.DisplayMetrics;
 import android.util.Log;
 
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.define.DebugFlags;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.define.DebugFlags;
 
 // This hack is applied to certain classes of tablets.
 public final class BogusMoveEventDetector {

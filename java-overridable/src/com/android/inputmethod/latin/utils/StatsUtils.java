@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
 import android.view.inputmethod.InputMethodSubtype;
 
-import com.timi.inputmethod.latin.DictionaryFacilitator;
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.SuggestedWords;
-import com.timi.inputmethod.latin.settings.SettingsValues;
+import com.android.inputmethod.latin.DictionaryFacilitator;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.settings.SettingsValues;
 
 import javax.annotation.Nullable;
 

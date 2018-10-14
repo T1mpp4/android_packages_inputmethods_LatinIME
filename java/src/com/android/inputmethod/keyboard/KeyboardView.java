@@ -34,9 +34,9 @@ import android.view.View;
 
 import com.android.inputmethod.keyboard.internal.KeyDrawParams;
 import com.android.inputmethod.keyboard.internal.KeyVisualAttributes;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.utils.TypefaceUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.utils.TypefaceUtils;
 
 import java.util.HashSet;
 

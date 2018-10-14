@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
 import android.content.Context;
 import android.view.ContextThemeWrapper;
 
-import com.timi.inputmethod.latin.R;
+import com.android.inputmethod.latin.R;
 
 public final class DialogUtils {
     private DialogUtils() {

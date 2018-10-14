@@ -14,26 +14,26 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.dicttool;
+package com.android.inputmethod.latin.dicttool;
 
-import com.timi.inputmethod.latin.common.CodePointUtils;
-import com.timi.inputmethod.latin.dicttool.BinaryDictOffdeviceUtils;
-import com.timi.inputmethod.latin.dicttool.Compress;
-import com.timi.inputmethod.latin.dicttool.Crypt;
-import com.timi.inputmethod.latin.dicttool.BinaryDictOffdeviceUtils.DecoderChainSpec;
-import com.timi.inputmethod.latin.makedict.BinaryDictIOUtils;
-import com.timi.inputmethod.latin.makedict.BinaryDictUtils;
-import com.timi.inputmethod.latin.makedict.DictDecoder;
-import com.timi.inputmethod.latin.makedict.DictEncoder;
-import com.timi.inputmethod.latin.makedict.DictionaryHeader;
-import com.timi.inputmethod.latin.makedict.FormatSpec;
-import com.timi.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
-import com.timi.inputmethod.latin.makedict.FormatSpec.FormatOptions;
-import com.timi.inputmethod.latin.makedict.FusionDictionary;
-import com.timi.inputmethod.latin.makedict.FusionDictionary.PtNodeArray;
-import com.timi.inputmethod.latin.makedict.ProbabilityInfo;
-import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
-import com.timi.inputmethod.latin.makedict.Ver2DictEncoder;
+import com.android.inputmethod.latin.common.CodePointUtils;
+import com.android.inputmethod.latin.dicttool.BinaryDictOffdeviceUtils;
+import com.android.inputmethod.latin.dicttool.Compress;
+import com.android.inputmethod.latin.dicttool.Crypt;
+import com.android.inputmethod.latin.dicttool.BinaryDictOffdeviceUtils.DecoderChainSpec;
+import com.android.inputmethod.latin.makedict.BinaryDictIOUtils;
+import com.android.inputmethod.latin.makedict.BinaryDictUtils;
+import com.android.inputmethod.latin.makedict.DictDecoder;
+import com.android.inputmethod.latin.makedict.DictEncoder;
+import com.android.inputmethod.latin.makedict.DictionaryHeader;
+import com.android.inputmethod.latin.makedict.FormatSpec;
+import com.android.inputmethod.latin.makedict.FormatSpec.DictionaryOptions;
+import com.android.inputmethod.latin.makedict.FormatSpec.FormatOptions;
+import com.android.inputmethod.latin.makedict.FusionDictionary;
+import com.android.inputmethod.latin.makedict.FusionDictionary.PtNodeArray;
+import com.android.inputmethod.latin.makedict.ProbabilityInfo;
+import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.android.inputmethod.latin.makedict.Ver2DictEncoder;
 
 import junit.framework.TestCase;
 

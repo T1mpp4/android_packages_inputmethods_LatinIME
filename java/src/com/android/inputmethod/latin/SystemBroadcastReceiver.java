@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.app.DownloadManager;
 import android.content.BroadcastReceiver;
@@ -34,9 +34,9 @@ import android.view.inputmethod.InputMethodSubtype;
 import com.android.inputmethod.dictionarypack.DictionaryPackConstants;
 import com.android.inputmethod.dictionarypack.DownloadManagerWrapper;
 import com.android.inputmethod.keyboard.KeyboardLayoutSet;
-import com.timi.inputmethod.latin.settings.Settings;
-import com.timi.inputmethod.latin.setup.SetupActivity;
-import com.timi.inputmethod.latin.utils.UncachedInputMethodManagerUtils;
+import com.android.inputmethod.latin.settings.Settings;
+import com.android.inputmethod.latin.setup.SetupActivity;
+import com.android.inputmethod.latin.utils.UncachedInputMethodManagerUtils;
 
 /**
  * This class detects the {@link Intent#ACTION_MY_PACKAGE_REPLACED} broadcast intent when this IME

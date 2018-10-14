@@ -26,14 +26,14 @@ import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.compat.InputMethodSubtypeCompatUtils;
 import com.android.inputmethod.keyboard.KeyboardLayoutSet.Builder;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.RichInputMethodSubtype;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.settings.Settings;
-import com.timi.inputmethod.latin.utils.AdditionalSubtypeUtils;
-import com.timi.inputmethod.latin.utils.ResourceUtils;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.RichInputMethodSubtype;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.settings.Settings;
+import com.android.inputmethod.latin.utils.AdditionalSubtypeUtils;
+import com.android.inputmethod.latin.utils.ResourceUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.ArrayList;
 import java.util.Locale;

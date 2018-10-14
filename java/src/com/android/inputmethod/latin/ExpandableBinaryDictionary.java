@@ -14,25 +14,25 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.content.Context;
 import android.util.Log;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
-import com.timi.inputmethod.latin.common.ComposedData;
-import com.timi.inputmethod.latin.common.FileUtils;
-import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
-import com.timi.inputmethod.latin.makedict.DictionaryHeader;
-import com.timi.inputmethod.latin.makedict.FormatSpec;
-import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
-import com.timi.inputmethod.latin.makedict.WordProperty;
-import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
-import com.timi.inputmethod.latin.utils.AsyncResultHolder;
-import com.timi.inputmethod.latin.utils.CombinedFormatUtils;
-import com.timi.inputmethod.latin.utils.ExecutorUtils;
-import com.timi.inputmethod.latin.utils.WordInputEventForPersonalization;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.common.ComposedData;
+import com.android.inputmethod.latin.common.FileUtils;
+import com.android.inputmethod.latin.define.DecoderSpecificConstants;
+import com.android.inputmethod.latin.makedict.DictionaryHeader;
+import com.android.inputmethod.latin.makedict.FormatSpec;
+import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.android.inputmethod.latin.makedict.WordProperty;
+import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.android.inputmethod.latin.utils.AsyncResultHolder;
+import com.android.inputmethod.latin.utils.CombinedFormatUtils;
+import com.android.inputmethod.latin.utils.ExecutorUtils;
+import com.android.inputmethod.latin.utils.WordInputEventForPersonalization;
 
 import java.io.File;
 import java.util.ArrayList;

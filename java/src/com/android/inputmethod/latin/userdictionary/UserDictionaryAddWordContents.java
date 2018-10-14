@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.userdictionary;
+package com.android.inputmethod.latin.userdictionary;
 
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -27,8 +27,8 @@ import android.view.View;
 import android.widget.EditText;
 
 import com.android.inputmethod.compat.UserDictionaryCompatUtils;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.common.LocaleUtils;
 
 import java.util.ArrayList;
 import java.util.Locale;

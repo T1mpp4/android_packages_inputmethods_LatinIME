@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.content.res.Resources;
 import android.inputmethodservice.InputMethodService;
@@ -30,13 +30,13 @@ import android.view.inputmethod.ExtractedTextRequest;
 import android.view.inputmethod.InputConnection;
 import android.view.inputmethod.InputConnectionWrapper;
 
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.common.StringUtils;
-import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
-import com.timi.inputmethod.latin.utils.NgramContextUtils;
-import com.timi.inputmethod.latin.utils.RunInLocale;
-import com.timi.inputmethod.latin.utils.ScriptUtils;
-import com.timi.inputmethod.latin.utils.TextRange;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.android.inputmethod.latin.utils.NgramContextUtils;
+import com.android.inputmethod.latin.utils.RunInLocale;
+import com.android.inputmethod.latin.utils.ScriptUtils;
+import com.android.inputmethod.latin.utils.TextRange;
 
 import java.util.Locale;
 

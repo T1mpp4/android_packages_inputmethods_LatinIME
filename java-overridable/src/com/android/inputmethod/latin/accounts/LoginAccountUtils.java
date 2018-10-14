@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.accounts;
+package com.android.inputmethod.latin.accounts;
 
 import android.content.Context;
 

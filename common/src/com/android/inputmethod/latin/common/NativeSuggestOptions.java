@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.common;
+package com.android.inputmethod.latin.common;
 
 public class NativeSuggestOptions {
     // Need to update suggest_options.h when you add, remove or reorder options.

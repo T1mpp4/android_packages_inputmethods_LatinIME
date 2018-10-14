@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.define;
+package com.android.inputmethod.latin.define;
 
 public final class ProductionFlags {
     private ProductionFlags() {
@@ -25,7 +25,7 @@ public final class ProductionFlags {
 
     /**
      * Include all suggestions from all dictionaries in
-     * {@link com.timi.inputmethod.latin.SuggestedWords#mRawSuggestions}.
+     * {@link com.android.inputmethod.latin.SuggestedWords#mRawSuggestions}.
      */
     public static final boolean INCLUDE_RAW_SUGGESTIONS = false;
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.common;
+package com.android.inputmethod.latin.common;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;

@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.test.suitebuilder.annotation.LargeTest;
 
 import com.android.inputmethod.event.Event;
-import com.timi.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.Constants;
 
 import java.util.ArrayList;
 

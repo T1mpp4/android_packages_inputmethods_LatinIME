@@ -24,8 +24,8 @@ import android.text.Spanned;
 import android.text.TextUtils;
 import android.text.style.SuggestionSpan;
 
-import com.timi.inputmethod.latin.SuggestedWords;
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
 
 import java.util.ArrayList;
 import java.util.Arrays;

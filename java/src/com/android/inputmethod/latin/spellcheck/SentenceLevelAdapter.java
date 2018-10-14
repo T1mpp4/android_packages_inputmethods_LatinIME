@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.spellcheck;
+package com.android.inputmethod.latin.spellcheck;
 
 import android.annotation.TargetApi;
 import android.content.res.Resources;
@@ -24,9 +24,9 @@ import android.view.textservice.SuggestionsInfo;
 import android.view.textservice.TextInfo;
 
 import com.android.inputmethod.compat.TextInfoCompatUtils;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
-import com.timi.inputmethod.latin.utils.RunInLocale;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.android.inputmethod.latin.utils.RunInLocale;
 
 import java.util.ArrayList;
 import java.util.Locale;

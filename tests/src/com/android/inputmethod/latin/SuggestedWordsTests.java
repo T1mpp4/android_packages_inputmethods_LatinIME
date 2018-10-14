@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.timi.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
+import com.android.inputmethod.latin.SuggestedWords.SuggestedWordInfo;
 
 import java.util.ArrayList;
 import java.util.Locale;

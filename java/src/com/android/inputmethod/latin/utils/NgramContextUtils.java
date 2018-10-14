@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
-import com.timi.inputmethod.latin.NgramContext;
-import com.timi.inputmethod.latin.NgramContext.WordInfo;
-import com.timi.inputmethod.latin.define.DecoderSpecificConstants;
-import com.timi.inputmethod.latin.settings.SpacingAndPunctuations;
+import com.android.inputmethod.latin.NgramContext;
+import com.android.inputmethod.latin.NgramContext.WordInfo;
+import com.android.inputmethod.latin.define.DecoderSpecificConstants;
+import com.android.inputmethod.latin.settings.SpacingAndPunctuations;
 
 import java.util.Arrays;
 import java.util.regex.Pattern;

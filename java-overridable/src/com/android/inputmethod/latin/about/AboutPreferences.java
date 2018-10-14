@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.about;
+package com.android.inputmethod.latin.about;
 
 import android.app.Fragment;
 

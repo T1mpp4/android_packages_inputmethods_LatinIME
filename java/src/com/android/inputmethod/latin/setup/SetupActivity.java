@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.setup;
+package com.android.inputmethod.latin.setup;
 
 import android.app.Activity;
 import android.content.Intent;

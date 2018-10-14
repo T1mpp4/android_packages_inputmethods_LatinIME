@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.content.Context;
 import android.util.LruCache;
 
 import com.android.inputmethod.annotations.UsedForTesting;
 import com.android.inputmethod.keyboard.Keyboard;
-import com.timi.inputmethod.latin.common.ComposedData;
-import com.timi.inputmethod.latin.settings.SettingsValuesForSuggestion;
-import com.timi.inputmethod.latin.utils.SuggestionResults;
+import com.android.inputmethod.latin.common.ComposedData;
+import com.android.inputmethod.latin.settings.SettingsValuesForSuggestion;
+import com.android.inputmethod.latin.utils.SuggestionResults;
 
 import java.io.File;
 import java.util.ArrayList;

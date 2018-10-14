@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.suggestions;
+package com.android.inputmethod.latin.suggestions;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -26,10 +26,10 @@ import com.android.inputmethod.keyboard.Keyboard;
 import com.android.inputmethod.keyboard.internal.KeyboardBuilder;
 import com.android.inputmethod.keyboard.internal.KeyboardIconsSet;
 import com.android.inputmethod.keyboard.internal.KeyboardParams;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.SuggestedWords;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.utils.TypefaceUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.utils.TypefaceUtils;
 
 public final class MoreSuggestions extends Keyboard {
     public final SuggestedWords mSuggestedWords;

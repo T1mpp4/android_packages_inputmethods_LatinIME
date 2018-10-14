@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.spellcheck;
+package com.android.inputmethod.latin.spellcheck;
 
 import android.service.textservice.SpellCheckerService.Session;
 

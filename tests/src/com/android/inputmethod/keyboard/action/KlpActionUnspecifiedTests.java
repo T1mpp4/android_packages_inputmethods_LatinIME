@@ -21,7 +21,7 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.keyboard.internal.KeyboardIconsSet;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 @LargeTest
 public class KlpActionUnspecifiedTests extends KlpActionTestsBase {

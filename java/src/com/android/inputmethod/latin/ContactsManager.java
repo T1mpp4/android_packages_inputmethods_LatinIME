@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -24,8 +24,8 @@ import android.provider.ContactsContract.Contacts;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.StringUtils;
 
 import java.util.ArrayList;
 import java.util.Collections;

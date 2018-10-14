@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.utils;
+package com.android.inputmethod.latin.utils;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.BinaryDictionary;
-import com.timi.inputmethod.latin.common.StringUtils;
-import com.timi.inputmethod.latin.makedict.DictionaryHeader;
-import com.timi.inputmethod.latin.makedict.UnsupportedFormatException;
+import com.android.inputmethod.latin.BinaryDictionary;
+import com.android.inputmethod.latin.common.StringUtils;
+import com.android.inputmethod.latin.makedict.DictionaryHeader;
+import com.android.inputmethod.latin.makedict.UnsupportedFormatException;
 
 import java.io.File;
 import java.io.IOException;

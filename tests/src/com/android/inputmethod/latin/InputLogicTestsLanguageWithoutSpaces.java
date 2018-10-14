@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin;
+package com.android.inputmethod.latin;
 
 import android.test.suitebuilder.annotation.LargeTest;
 import android.view.inputmethod.BaseInputConnection;
 
-import com.timi.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.Constants;
 
 @LargeTest
 public class InputLogicTestsLanguageWithoutSpaces extends InputTestsBase {

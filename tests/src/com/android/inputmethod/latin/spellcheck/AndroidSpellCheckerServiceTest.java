@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.spellcheck;
+package com.android.inputmethod.latin.spellcheck;
 
 import android.test.suitebuilder.annotation.LargeTest;
 import android.text.style.SuggestionSpan;
 
-import com.timi.inputmethod.latin.InputTestsBase;
+import com.android.inputmethod.latin.InputTestsBase;
 
 @LargeTest
 public class AndroidSpellCheckerServiceTest extends InputTestsBase {

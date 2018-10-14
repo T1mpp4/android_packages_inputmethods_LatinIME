@@ -21,9 +21,9 @@ import android.text.TextUtils;
 import android.view.inputmethod.InputMethodSubtype;
 
 import com.android.inputmethod.annotations.UsedForTesting;
-import com.timi.inputmethod.latin.RichInputMethodSubtype;
-import com.timi.inputmethod.latin.common.Constants;
-import com.timi.inputmethod.latin.common.LocaleUtils;
+import com.android.inputmethod.latin.RichInputMethodSubtype;
+import com.android.inputmethod.latin.common.Constants;
+import com.android.inputmethod.latin.common.LocaleUtils;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;

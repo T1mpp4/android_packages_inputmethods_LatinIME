@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.suggestions;
+package com.android.inputmethod.latin.suggestions;
 
 import android.test.AndroidTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
-import com.timi.inputmethod.latin.SuggestedWords;
+import com.android.inputmethod.latin.SuggestedWords;
 
 @SmallTest
 public class SuggestionStripLayoutHelperTests extends AndroidTestCase {

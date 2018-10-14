@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.timi.inputmethod.latin.settings;
+package com.android.inputmethod.latin.settings;
 
-import com.timi.inputmethod.latin.permissions.PermissionsManager;
-import com.timi.inputmethod.latin.utils.FragmentUtils;
-import com.timi.inputmethod.latin.utils.StatsUtils;
-import com.timi.inputmethod.latin.utils.StatsUtilsManager;
+import com.android.inputmethod.latin.permissions.PermissionsManager;
+import com.android.inputmethod.latin.utils.FragmentUtils;
+import com.android.inputmethod.latin.utils.StatsUtils;
+import com.android.inputmethod.latin.utils.StatsUtilsManager;
 
 import android.app.ActionBar;
 import android.content.Intent;

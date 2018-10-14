@@ -24,10 +24,10 @@ import android.view.inputmethod.InputMethodSubtype;
 import com.android.inputmethod.keyboard.KeyboardLayoutSet;
 import com.android.inputmethod.keyboard.internal.KeyboardIconsSet;
 import com.android.inputmethod.keyboard.internal.KeyboardTextsSet;
-import com.timi.inputmethod.latin.R;
-import com.timi.inputmethod.latin.RichInputMethodManager;
-import com.timi.inputmethod.latin.utils.RunInLocale;
-import com.timi.inputmethod.latin.utils.SubtypeLocaleUtils;
+import com.android.inputmethod.latin.R;
+import com.android.inputmethod.latin.RichInputMethodManager;
+import com.android.inputmethod.latin.utils.RunInLocale;
+import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;
 
 import java.util.Locale;
 

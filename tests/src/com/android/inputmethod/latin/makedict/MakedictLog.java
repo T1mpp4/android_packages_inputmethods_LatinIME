@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.timi.inputmethod.latin.makedict;
+package com.android.inputmethod.latin.makedict;
 
 /**
  * Wrapper to redirect log events to the right output medium.
