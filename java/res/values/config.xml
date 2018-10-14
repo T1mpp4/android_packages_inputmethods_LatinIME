@@ -29,7 +29,7 @@
     <dimen name="config_default_keyboard_height">205.6dp</dimen>
     <fraction name="config_max_keyboard_height">46%p</fraction>
     <fraction name="config_min_keyboard_height">-61.8%p</fraction>
-    <fraction name="config_default_key_border_radius">4dp</fraction>
+    <dimen name="config_default_key_border_radius">4dp</dimen>
 
     <dimen name="config_more_keys_keyboard_key_height">52.8dp</dimen>
     <!-- Amount of allowance for selecting keys in a mini popup keyboard by sliding finger. -->
